@@ -21,4 +21,4 @@ The website was built on [Hexo](https://hexo.io/) and [Meteor theme](https://git
 Todo
 
 * [ ] Menu bar
-* [ ] Export MarkDown notes from folders without writing in `_config.yml` file.
+* [ ] Import MarkDown notes from folders without writing in `_config.yml` file.

@@ -61,96 +61,129 @@ Levels: 5 3 4
 ```
 
 
-## Descriptive: table format
+## Descriptive
 
-* `xtabs`
+### table format `xtabs()`
 
-    ```r
-    xtabs(~admit + rank, data = mydata)
-    ```
-    
-    ```r
-    ##      rank
-    ## admit  1  2  3  4
-    ##     0 28 97 93 55
-    ##     1 33 54 28 12
-    ```
-## Descriptive: list format
+basic syntax
+
+* catVar1
 
 ```r
-x = count(mtcars, c('cyl', 'gear'))
+xtabs(~ catVar1 + catVar2, data = dataSet)
+```
+
+Complicated for formula part.
+
+Example: `mtcars` dataset
+
+| Parameter | Argument | Meaning                                  |
+|-----------|----------|------------------------------------------|
+| catVar    | vs       | V/S                                      |
+| catVar    | gear     | Number of forward gears                  |
+| data      | mtcars   | Motor Trend Car Road Tests               |
+
+`xtabs(~ vs + gear, data = mtcars)`
+
+or
+
+```r
+with(mtcars, {
+  xtabs(~ vs + gear)
+})
+```
+    
+```r
+   gear
+vs   3  4  5
+  0 12  2  4
+  1  3 10  1
+```
+### list format `count()`
+
+Example: `mtcars` dataset
+
+| Parameter | Argument | Meaning                                  |
+|-----------|----------|------------------------------------------|
+| catVar    | vs       | V/S                                      |
+| catVar    | gear     | Number of forward gears                  |
+| data      | mtcars   | Motor Trend Car Road Tests               |
+
+basic syntax
+
+* `dataset`: a dataset
+* `catVector`: a categorical vector
+
+`plyr::count(dataset, catVector)`
+
+```r
+with(mtcars, {
+  plyr::count(mtcars, c('vs', 'gear'))
+})
 ```
 
 ```
-x
-         cyl     gear      freq
- 1       4       3         1
- 2       4       4         8
- 3       4       5         2
- 4       6       3         2
- 5       6       4         4
- 6       6       5         1
- 7       8       3         12
- 8       8       5         2
+  vs gear freq
+1  0    3   12
+2  0    4    2
+3  0    5    4
+4  1    3    3
+5  1    4   10
+6  1    5    1
 ```
 ## test
-### n by m table: **Chi-squared Test of Independence or fisher test**
+### n by m table: **Chi-squared Test of Independence** (Omnibus tests )
+* `catVar1`: a categorical variable
+* `catVar2`: a categorical variable
+* `correct`: whether continuity correction is applied
 
-* Omnibus tests 
-    `chisq.test(var1, var2, correct = FALSE)`
+`chisq.test(catVar1, catVar2, correct = FALSE)`
     
-    ```r
-    table(mtcars$carb, mtcars$cyl)
-    4 6 8
-  1 5 2 0
-  2 6 0 4
-  3 0 0 3
-  4 0 4 6
-  6 0 1 0
-  8 0 0 1
-  
-  chisq.test(mtcars$carb, mtcars$cyl)
-    ```
+Example: `mtcars` dataset
 
-	```
-	with(mtcars, {
-		  tbl <- table(carb, cyl, useNA = "always")
-		  print(tbl)
-		  tbl2 <- table(carb, cyl)
-		  print(chisq.test(carb, cyl))
-		  round(prop.table(tbl2, margin = 2), digits = 2)
-		}
-	)
-	```
+| Parameter | Argument | Meaning                                  |
+|-----------|----------|------------------------------------------|
+| catVar    | vs       | V/S                                      |
+| catVar    | gear     | Number of forward gears                  |
+| data      | mtcars   | Motor Trend Car Road Tests               |
+
+
+```r
+table(mtcars$vs, mtcars$gear)
+chisq.test(mtcars$vs, mtcars$gear)
+```
+
+```r
+with(mtcars, {
+	  tbl <- table(vs, gear, useNA = "always")
+	  print(tbl)
+	  tbl2 <- table(vs, gear)
+	  print(chisq.test(vs, gear))
+	  round(prop.table(tbl2, margin = 2), digits = 2)
+	}
+)
+```
 	
-	output
-	
-	```
-		     cyl
-	carb   4 6 8 <NA>
-	  1    5 2 0    0
-	  2    6 0 4    0
-	  3    0 0 3    0
-	  4    0 4 6    0
-	  6    0 1 0    0
-	  8    0 0 1    0
-	  <NA> 0 0 0    0
-	
-		Pearson's Chi-squared test
-	
-	data:  carb and cyl
-	X-squared = 24.389, df = 10,
-	p-value = 0.006632
-	
-	    cyl
-	carb    4    6    8
-	   1 0.45 0.29 0.00
-	   2 0.55 0.00 0.29
-	   3 0.00 0.00 0.21
-	   4 0.00 0.57 0.43
-	   6 0.00 0.14 0.00
-	   8 0.00 0.00 0.07
-	```
+```
+      gear
+vs      3  4  5 <NA>
+  0    12  2  4    0
+  1     3 10  1    0
+  <NA>  0  0  0    0
+
+	Pearson's Chi-squared test
+
+data:  vs and gear
+X-squared = 12.224, df = 2, p-value = 0.002216
+
+   gear
+vs     3    4    5
+  0 0.80 0.17 0.80
+  1 0.20 0.83 0.20
+Warning message:
+In chisq.test(vs, gear) : Chi-squared approximation may be incorrect
+```
+
 ### n by m table: fisher test
 
 #### bsic syntax
