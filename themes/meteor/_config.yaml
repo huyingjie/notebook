@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://notebook.yingjiehu.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -90,11 +90,12 @@ redirects:
 # Third Party
 # ############################################
 # Segment Tracking
-segment: wgrIo8Bul0Ujl8USETG3DB6hONdy4kTg
+# segment: wgrIo8Bul0Ujl8USETG3DB6hONdy4kTg
 
-google_site_verification:
-# Google analytics
-ga:
+# Google Webmaster
+google_site_verification: g5BseDGQ1hWwdbBPJLKNfbC6xNOaM3X4LnKEMAvx_tI
+# Google Analytics
+ga: UA-28948502-1
 # Google Tag Manager
 gtm: GTM-PNFDVBB
 
