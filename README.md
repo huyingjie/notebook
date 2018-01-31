@@ -14,4 +14,6 @@
 
 <b>Please feel free to fork the repo to create your own online notebook.</b>
 
+The website was built on [Hexo](https://hexo.io/) and [Meteor theme](https://github.com/meteor/hexo-theme-meteor).
+
 ![](source/figs/screenshot2.png)
