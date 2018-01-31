@@ -10,5 +10,8 @@
 	<sub>Created and Maintained By <a href="http://yingjiehu.com" target="_blank">Yingjie Hu</a> with ❤️ &nbsp;Follow me on <a href="https://twitter.com/yingjieYJH" target="_blank">Twitter</a>.</sub>
 </div>
 
+![](source/figs/screenshot1.png)
 
-Please feel free to fork the repo to create your own online notebook.
+<b>Please feel free to fork the repo to create your own online notebook.</b>
+
+![](source/figs/screenshot2.png)

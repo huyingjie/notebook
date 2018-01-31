@@ -76,14 +76,14 @@ logo:
 favicon:        # relative link. Example: images/favicon.png
 
 ## GitHub
-github_repo: huyingjie/notebook-for-data-science
+github_repo: huyingjie/notebook
 content_root: source
 
 social_links:
   github: 'https://github.com/huyingjie'
   twitter: '@yingjieYJH'
   slackInvitePage: ''
-  patreon: arsnippet
+  patreon: yingjie
 
 redirects:
 # ############################################
