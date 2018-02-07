@@ -78,7 +78,7 @@ summarizeContVar(dmLog2ScaleNormClinical, "pack_year")
 ```
 ## Pearson Correlation Matrix
 
-basic syntax
+### basic syntax
 
 * `dataFrame`: one data frame
 
@@ -86,10 +86,15 @@ basic syntax
 
 Example: `mtcars` dataset
 
+<font color="red">When there are missing values, `cor` and `Hmisc::rcorr` give different results</font>
+
+### Method 1:
+
 ```r
 with(mtcars, {
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
-  cor(mtcars[,contVar], method = "pearson", 
+  date = mtcars
+  cor(data[,contVar], method = "pearson", 
   	   use = "pairwise.complete.obs")
 })
 ```
@@ -102,6 +107,46 @@ disp -0.8475514  0.9020329  1.0000000  0.7909486  0.8879799 -0.7102139
 hp   -0.7761684  0.8324475  0.7909486  1.0000000  0.6587479 -0.4487591
 wt   -0.8676594  0.7824958  0.8879799  0.6587479  1.0000000 -0.7124406
 drat  0.6811719 -0.6999381 -0.7102139 -0.4487591 -0.7124406  1.0000000
+```
+
+### Method 2:
+
+```r
+with(mtcars,{
+  Hmisc::rcorr(as.matrix(mtcars), type = "pearson")
+})
+```
+
+```
+       mpg   cyl  disp    hp  drat    wt  qsec    vs    am  gear  carb
+mpg   1.00 -0.85 -0.85 -0.78  0.68 -0.87  0.42  0.66  0.60  0.48 -0.55
+cyl  -0.85  1.00  0.90  0.83 -0.70  0.78 -0.59 -0.81 -0.52 -0.49  0.53
+disp -0.85  0.90  1.00  0.79 -0.71  0.89 -0.43 -0.71 -0.59 -0.56  0.39
+hp   -0.78  0.83  0.79  1.00 -0.45  0.66 -0.71 -0.72 -0.24 -0.13  0.75
+drat  0.68 -0.70 -0.71 -0.45  1.00 -0.71  0.09  0.44  0.71  0.70 -0.09
+wt   -0.87  0.78  0.89  0.66 -0.71  1.00 -0.17 -0.55 -0.69 -0.58  0.43
+qsec  0.42 -0.59 -0.43 -0.71  0.09 -0.17  1.00  0.74 -0.23 -0.21 -0.66
+vs    0.66 -0.81 -0.71 -0.72  0.44 -0.55  0.74  1.00  0.17  0.21 -0.57
+am    0.60 -0.52 -0.59 -0.24  0.71 -0.69 -0.23  0.17  1.00  0.79  0.06
+gear  0.48 -0.49 -0.56 -0.13  0.70 -0.58 -0.21  0.21  0.79  1.00  0.27
+carb -0.55  0.53  0.39  0.75 -0.09  0.43 -0.66 -0.57  0.06  0.27  1.00
+
+n= 32 
+
+
+P
+     mpg    cyl    disp   hp     drat   wt     qsec   vs     am     gear   carb  
+mpg         0.0000 0.0000 0.0000 0.0000 0.0000 0.0171 0.0000 0.0003 0.0054 0.0011
+cyl  0.0000        0.0000 0.0000 0.0000 0.0000 0.0004 0.0000 0.0022 0.0042 0.0019
+disp 0.0000 0.0000        0.0000 0.0000 0.0000 0.0131 0.0000 0.0004 0.0010 0.0253
+hp   0.0000 0.0000 0.0000        0.0100 0.0000 0.0000 0.0000 0.1798 0.4930 0.0000
+drat 0.0000 0.0000 0.0000 0.0100        0.0000 0.6196 0.0117 0.0000 0.0000 0.6212
+wt   0.0000 0.0000 0.0000 0.0000 0.0000        0.3389 0.0010 0.0000 0.0005 0.0146
+qsec 0.0171 0.0004 0.0131 0.0000 0.6196 0.3389        0.0000 0.2057 0.2425 0.0000
+vs   0.0000 0.0000 0.0000 0.0000 0.0117 0.0010 0.0000        0.3570 0.2579 0.0007
+am   0.0003 0.0022 0.0004 0.1798 0.0000 0.0000 0.2057 0.3570        0.0000 0.7545
+gear 0.0054 0.0042 0.0010 0.4930 0.0000 0.0005 0.2425 0.2579 0.0000        0.1290
+carb 0.0011 0.0019 0.0253 0.0000 0.6212 0.0146 0.0000 0.0007 0.7545 0.1290       
 ```
 
 ## Test Two Independent Samples of Equal or Different Sample Sizes
@@ -155,7 +200,8 @@ or
 ```r
 with(mtcars, {
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
-  data.frame(sapply(contVar, function(x) kruskal.test(formula(paste(x, "~", "gear")))$p.value))
+  gropu = gear
+  data.frame(sapply(contVar, function(x) kruskal.test(formula(paste(x, "~", "group")))$p.value))
 })
 ```
 
@@ -201,6 +247,19 @@ with(mtcars, {
 })
 ```
 
+```
+	Pairwise comparisons using Wilcoxon rank sum test 
+
+data:  wt and gear 
+
+  3       4      
+4 0.00046 -      
+5 0.03847 1.00000
+
+P value adjustment method: bonferroni 
+[1] 0.0005 0.0385 1.0000
+```
+
 #### multiple continous variables
 
 Example: `mtcars` dataset
@@ -219,10 +278,21 @@ Example: `mtcars` dataset
 ```r
 with(mtcars, {
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
+  group = gear
   t(sapply(contVar, function(x) {
-    round(pairwise.wilcox.test(eval(parse(text=x)), gear, p.adjust.method = "bonferroni")$p.value[c(1,2,4)])
+    round(pairwise.wilcox.test(eval(parse(text=x)), group, p.adjust.method = "bonferroni")$p.value[c(1,2,4)], digits = 2)
   }))
 })
+```
+
+```
+     [,1] [,2] [,3]
+mpg     0 0.35 0.87
+cyl     0 0.25 0.50
+disp    0 0.24 0.95
+hp      0 1.00 0.09
+wt      0 0.04 1.00
+drat    0 0.01 1.00
 ```
 
 ### parametric: one-way ANOVA 

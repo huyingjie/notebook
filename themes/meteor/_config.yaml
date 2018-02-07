@@ -114,6 +114,7 @@ sidebar_categories:
   Data Science:
     - datascience/00200_Transformation_and_Expectations
     - datascience/00300_Distributions
+    - datascience/00400_Linear_Regression_with_One_Predictor
   "R: Exploratory Analysis":
     - R/00100_Clean_Data
     - R/00200_Continuous_Variable
