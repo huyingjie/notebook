@@ -115,6 +115,8 @@ sidebar_categories:
     - datascience/00200_Transformation_and_Expectations
     - datascience/00300_Distributions
     - datascience/00400_Linear_Regression_with_One_Predictor
+  Books:
+    - books/Applied_Linear_Statistical_Models_5th_ed
   "R: Exploratory Analysis":
     - R/00100_Clean_Data
     - R/00200_Continuous_Variable
@@ -127,6 +129,8 @@ sidebar_categories:
     - R-packages/compareGroups
   Math:
     - math/logarithm
+  Fields:
+    - fields/medical
   Technical:
     - formatting
     - setup

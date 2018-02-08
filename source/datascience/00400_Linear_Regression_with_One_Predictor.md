@@ -138,12 +138,22 @@ $Y = 94$ actual year-end evalution is a random selection from the probability di
 
 ## 3 main purposes for using regression
 
+In practice, the several purposes of regression analysis overlap.
+
 1. description
 2. control, e.g. control costs
 3. prediction
 
+## Regression and Causality
+
+Regression analysis by itself provides no information about causal patterns and **must be supplemented by additional analyses to obtain insights about causal relations.**
+
+1. **The existence of a statistical relation between the response variable Y and the explanatory or predictor variable X does not imply in any way that Y depends causally on X. No matter how strong is the statistical relation between X and Y**
 
 
+	Because of confounders
+	
+2. **Even when a strong statistical relationship reflects causal conditions, the causal condi- tions may act in the opposite direction, from Y to X.** 
 
 ## History of regression
 
@@ -151,4 +161,81 @@ Sir Francis Galton @ the latter part of the 19th century
 
 * relationship between heights of parents and children
 
+## Simple Linear Regression Model
+
+* **simple**: only one predictor variable
+* **linear**: the regression function is linear
+
+	* linear in the parameters
+	* linear in the predictor variable
+
+A model that is linear in the parameters and in the predictor variabie is also called **first-order model**.
+
+### regression model vs regression function
+
+Example
+
+* regression model: $Y_i = 9.5 + 2.1 X_i + \varepsilon$
+* regression function: $Y = 9.5 + 2.1 X$
+
+#### regression model
+
+$$Y_i = \beta_0+\beta_1X_i+\varepsilon_i$$
+
+where
+
+* $Y_i$: the value of the response variable in the $i$th trial
+* $\beta_0$ and $\beta_1$: parameters
+* $X_i$: a known constant, i.e. the value of the predictor variable in the $i$th trial
+* $\varepsilon$: a random error term with mean $E[\varepsilon] = 0$ and variance $\sigma^2_{\varepsilon_i} = \sigma^2$
+	* $\varepsilon_i$ and $\varepsilon_j$ are uncorrelated so that their covariance is 0
+
+		Cov($\varepsilon_i, \varepsilon_j$) = 0 for all $i, j$ and $i \neq j$ 
+		
+		$i=1,\dots,n$
+
+#### regression function
+
+$$Y = \beta_0+\beta_1X+\varepsilon$$
+
+## Features of regression models
+
+1. $Var(\varepsilon_i) = \sigma^2$ is a **constant**.
+2. $\varepsilon_i \stackrel{iid}{\sim} N(0, \sigma^2)$
+
+	**iid**: Independent and identically distributed random variables
+
+	1. the same distribution  => variance is the same
+	2. independent
+1. The response $Y_i$ in the $i$th trial is the sum of two components
+
+	1. **the constant term $\beta_0+\beta_1X_i$**
+	2. the random term $\varepsilon_i$
+
+2. From (1), $Y_i$ is a random variable.
+3. **$Y_i \stackrel{iid}{\sim} N(\beta_0+\beta_1X_i, \sigma^2)$** and all $Y_i$ has the same distribution.
+
+	* $Y_i$ has the same distribution
+	* $Y_i$ and $Y_j$ are independent, i.e., not correlated
+
+	proof: 
+	
+	Mean of $Y_i$ in the $i$th trial = $E(Y_i) = E(\beta_0+\beta_1X_i+\varepsilon_i) = \beta_0+\beta_1X_i + E(\varepsilon_i) = \beta_0+\beta_1X_i$
+	
+	Variance of $Y_i$ in the $i$th trial = $Var(Y_i) = Var(\beta_0+\beta_1X_i+\varepsilon_i) = Var(\varepsilon_i) = \sigma^2 (constant)$ 
+ 
+
+1. The regression function is $E[Y] = \beta_0+\beta_1X$
+
+	**Because the regression functions relates the means of the probability distribution of $Y$ for given $X$ to the level of $X$**
+	
+![](/figs/simple linear regression model graph presentation.png)
+
+## Meaning of Regression Parameters
+
+definition
+
+* $regression coefficients$: the parameters $\beta_0$ and $\beta_1$
+* **slope** of the regression line: $\beta_1$
+	* indicate the change in the mean of the probability distribution of $Y$ per unit increase in $X$
 

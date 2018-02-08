@@ -361,7 +361,45 @@ with(mtcars, {
 
 ## Plots
 
-### Boxplots by Groups
+### Scatter plots by Groups
+
+#### basic syntax
+
+* `contVar`: one continous variable
+* `catVar `: one categorical varaible
+* `data`: dataset
+
+```r
+pairs(data[, contVar], pch=19, cex=0.6, col = catVar, lower.panel=NULL)
+```
+
+Example: `mtcars` dataset
+
+| Parameter | Argument | Meaning                    |
+|-----------|----------|----------------------------|
+| contVar   | mpg      | Miles/(US) gallon          |
+| contVar   | cyl      | Number of cylinders        |
+| contVar   | disp     | Displacement (cu.in.)      |
+| contVar   | hp       | Gross horsepower           |
+| contVar   | wt       | Weight (1000 lbs)          |
+| contVar   | drat     | Rear axle ratio            |
+| catVar    | gear     | Number of forward gears    |
+| data      | mtcars   | Motor Trend Car Road Tests |
+
+
+```r
+with(mtcars, {
+  data = mtcars
+  contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
+  my_cols <- c("#00AFBB", "#E7B800", "#FC4E07")
+  catVar = my_cols[factor(gear)]
+  pairs(data[, contVar], pch=19, cex=0.6, col = catVar, lower.panel=NULL)
+})
+```
+![](/figs/scatter-plot-by-group.png)
+
+
+### Box plots by Groups
 
 #### basic syntax
 
@@ -374,7 +412,7 @@ boxplot(contVar ~ catVar,
 		data = dataset)
 ```
 
-#### one boxplot by groups
+#### one box plot by groups
 
 Example: `mtcars` dataset
 
@@ -396,7 +434,7 @@ boxplot(wt ~ gear, data = mtcars,
 
 ![](/figs/boxplot by groups one.png)
 
-#### multiple boxplots by groups in one dataset
+#### multiple box plots by groups in one dataset
 
 Example: `mtcars` dataset
 
