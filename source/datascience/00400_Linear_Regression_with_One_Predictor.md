@@ -8,34 +8,7 @@ tags:
 * $X$: the independent variable
 * $Y$: the dependent variable
 
-## interchangable names
 
-* dependent variable
-
-	* response variable
-
-* independent variable
-	* indepent variable
-	* explanatory variable
-	* predictor variable
-
-* not linear
-
-	* curvilinear
-
-filed|variables|subjects
----|---|---
-statisticans|variables|observations
-database analysts|fields|records
-data mining, machine learning|attributes|examples
-
-## types
-
-* continuous
-* categorical
-	* nominal
-	* ordinal
-* case/row identifier
 
 ## 1.1 realtions between varaibles 
 

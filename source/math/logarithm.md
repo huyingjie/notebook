@@ -1,3 +1,8 @@
+---
+title: Logarithm
+description: 
+---
+
 # logarithm
 
 * the **logarithm** of a positive number: the **power** of the base that produces the number

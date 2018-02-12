@@ -3,6 +3,9 @@ title: Medical
 description: Easy to forget (●｀･(ｴ)･´●)
 ---
 
+## Brain
+
+![](/figs/fields/medical/neurons.png)
 ## Lung
 
 ### FEV, FVC
