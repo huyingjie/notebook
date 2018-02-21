@@ -743,3 +743,17 @@ Warning messages:
 
 ```
 
+## with function
+
+create objects that will exist outside of the `with()` construct: use the special assignment operator `<<-` instead of `<-`
+
+ It saves the object to the global environment outside of the `with()` call. 
+ 
+```
+with(mtcars, {
+   nokeepstats <- summary(mpg)
+   keepstats <<- summary(mpg)
+})
+nokeepstats
+keepstats
+```
