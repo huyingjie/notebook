@@ -3,7 +3,7 @@ title: Outliers by Malcolm Gladwell
 description: Matthew Effect & Threshold
 ---
 
-http://amzn.to/2FicwFn
+[Book link](http://amzn.to/2FicwFn)
 
 # Outliers
 

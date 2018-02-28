@@ -1,6 +1,7 @@
 ---
 title: Learning Style
 description: auditory-sequential, visual-spatial
+---
 
 
 2 basic learning style
