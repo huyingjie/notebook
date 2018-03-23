@@ -151,7 +151,7 @@ Example
 * regression model: $Y_i = 9.5 + 2.1 X_i + \varepsilon$
 * regression function: $Y = 9.5 + 2.1 X$
 
-#### regression model
+#### regression model 1 (1.1)
 
 $$Y_i = \beta_0+\beta_1X_i+\varepsilon_i$$
 
@@ -166,6 +166,17 @@ where
 		Cov($\varepsilon_i, \varepsilon_j$) = 0 for all $i, j$ and $i \neq j$ 
 		
 		$i=1,\dots,n$
+		
+#### regression model 2 (1.5)
+
+$$Y_i = \beta_0X_0+\beta_1X_i+\varepsilon_i$$ where $X_0 \equiv 1$
+
+#### regression model 3 (1.6)
+$$Y_i = \beta_0+\beta_1X_i+\varepsilon_i = \beta_0+\beta_1(X_i-\bar{X})+\beta_1\bar{X}+\varepsilon_i=\beta^{*}_0+\beta_1(X_i-\bar{X})+\varepsilon_i$$
+
+$$Y_i= \varepsilon_i=\beta^{*}_0+\beta_1(X_i-\bar{X})+\varepsilon_i$$
+
+$$\beta^{*}_0=\beta_0+\beta_1\bar{X}$$
 
 #### regression function
 
@@ -212,3 +223,18 @@ definition
 * **slope** of the regression line: $\beta_1$
 	* indicate the change in the mean of the probability distribution of $Y$ per unit increase in $X$
 
+
+![](/figs/linear-regression-workflow.png)
+
+## Estimation of parameters
+
+The observational or experimental data to be used for estimating the parameters of the regression function consist of observations on the explanatory or predictor variable X and the corresponding observations on the response variable Y. For each trial, there is an X observation and a Y observation. We denote the (X, Y) observations for the first trial as ($X_1$, $Y_1$), for the second trial as ($X_2$, $Y_2$), and in general for the ith trial as ($X_i$, $Y_i$), where i = 1, ... ,n.
+
+### Method of least-Squares
+
+the deviation of $Y_i$ from its expected value: $Y_i - (\beta_0 + \beta_1X_i)$
+
+the sum of the $n$ squared deviations: $Q=Y_i - \sum\limits_{i=1}^n(\beta_0 + \beta_1X_i)^2$
+
+
+the estimators of $\beta_0$ and $\beta_1$ are those values that minimize the criterion Q for the given sample observations $(X_1$, $Y_1),(X_2$, $Y_2),..., (X_n$, $Y_n)$

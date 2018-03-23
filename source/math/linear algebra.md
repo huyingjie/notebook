@@ -45,3 +45,10 @@ sheer: ![](/figs/math/transformation-sheer.png)
 
 * rotate 90 degrees around y axis
 $\left[ \begin{matrix} 0 & 0 & 1 \\\\ 0 & 1 & 0 \\\\ -1 & 0 & 0\end{matrix} \right]$
+
+
+## linear transformation
+
+* Origin is fixed.
+* Grid lines remain parallel.
+* Grid lines remain evenly spaced.

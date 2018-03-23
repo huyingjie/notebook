@@ -49,6 +49,9 @@ In Table 1.1, the lot size $X$ is the same in production runs 1and 24 but the wo
 
 ![](/figs/applied-linear-statistical-models/table1.1.png)
 
+**idea**
+
+**solution**
 
 * * *
 
