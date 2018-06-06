@@ -45,3 +45,12 @@ the function 𝑇(𝑛) has an order of magnitude 𝑓(𝑛) = $n^2$, or simply 
 very common order of magnitude functions
 
 ![](/figs/cs/common functions for O.png)
+
+
+
+
+
+
+
+Two common operations are indexing and assigning to an index position. Both of these opera- tions take the same amount of time no matter how large the list becomes. When an operation like this is independent of the size of the list they are 𝑂(1).
+Another very common programming task is to grow a list. There are two ways to create a longer list. You can use the append method or the concatenation operator. The append method is 𝑂(1). However, the concatenation operator is 𝑂(𝑘) where 𝑘 is the size of the list that is being concatenated. This is important for you to know because it can help you make your own programs more efficient by choosing the right tool for the job.

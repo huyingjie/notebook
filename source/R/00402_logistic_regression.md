@@ -17,6 +17,12 @@ glm(formula, family=binomial(link='logit'), data=dataset)
 
 `formula: response ~ predictors`
 
+## increase limit
+
+```r
+control = list(maxit = 50)
+```
+
 ## Methods for the `glm` object
 
 summary()
