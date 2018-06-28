@@ -127,16 +127,19 @@ drat "1.99"   "0.87"     "2.29"  "0.02"   "7.30" "(1.566, 50.286)"
 
 ````r
 with(mtcars, {
+  data = mtcars
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
+  group = "vs"
   library(MASS)
   est <- sapply(contVar, function(x) {
-    f <- formula(paste("vs ~", x))
-    fit <- glm(f, family = binomial(link='logit'))
+    f <- formula(paste(parse(text=group), " ~", x))
+    # print(f)
+    fit <- glm(f, family = binomial(link='logit'), control = list(maxit = 50), data = data)
     return(summary(fit)$coefficients[2,])
   })
   conf <- sapply(contVar, function(x) {
-    f <- formula(paste("vs ~", x))
-    fit <- glm(f, family = binomial(link='logit'))
+    f <- formula(paste(parse(text=group), " ~", x))
+    fit <- glm(f, family = binomial(link='logit'), control = list(maxit = 50), data = data)
     interval <- round(confint(fit)[2,], digits = 3)
     return(rbind(paste("(", interval[1],", ",interval[2], ")", sep = "")))
   })
@@ -161,14 +164,14 @@ drat "1.98746795001728"    "0.866293577881116"   "2.29421988199251"  "0.02177787
 
 ```r
 with(mtcars, {
-  library(MASS)
+  data = mtcars
   contVar = c("mpg", "cyl", "hp", "wt", "drat")
-  print(sum(complete.cases(mtcars[,contVar])))
-  group = factor(vs)
   library(MASS)
+  print(sum(complete.cases(data[,contVar])))
+  group = factor(vs)
   f <- formula(paste("group ~ ", paste(contVar, collapse = "+")))
   print(f)
-  fit <- glm(f, family = binomial(link='logit'))
+  fit <- glm(f, family = binomial(link='logit'), control = list(maxit = 50))
   step <- stepAIC(fit, direction="both", trace = FALSE)
   s <- summary(step)
   exp <- exp(coef(s)[,1])
