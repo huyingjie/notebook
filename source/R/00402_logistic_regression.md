@@ -88,6 +88,7 @@ Example: `mtcars` dataset
 with(mtcars, {
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
   group = "vs"
+  library(MASS)
   est <- sapply(contVar, function(x) {
     f <- formula(paste(group, " ~", x))
     print(f)
@@ -127,6 +128,7 @@ drat "1.99"   "0.87"     "2.29"  "0.02"   "7.30" "(1.566, 50.286)"
 ````r
 with(mtcars, {
   contVar = c("mpg", "cyl", "disp", "hp", "wt", "drat")
+  library(MASS)
   est <- sapply(contVar, function(x) {
     f <- formula(paste("vs ~", x))
     fit <- glm(f, family = binomial(link='logit'))
@@ -163,6 +165,7 @@ with(mtcars, {
   contVar = c("mpg", "cyl", "hp", "wt", "drat")
   print(sum(complete.cases(mtcars[,contVar])))
   group = factor(vs)
+  library(MASS)
   f <- formula(paste("group ~ ", paste(contVar, collapse = "+")))
   print(f)
   fit <- glm(f, family = binomial(link='logit'))

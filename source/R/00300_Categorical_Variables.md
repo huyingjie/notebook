@@ -133,11 +133,10 @@ with(mtcars, {
 ```
 ## test
 ### n by m table: **Chi-squared Test of Independence** (Omnibus tests )
-* `catVar1`: a categorical variable
-* `catVar2`: a categorical variable
+* `table`: count data
 * `correct`: whether continuity correction is applied
 
-`chisq.test(catVar1, catVar2, correct = FALSE)`
+`chisq.test(table, correct = FALSE)`
     
 Example: `mtcars` dataset
 
@@ -150,7 +149,7 @@ Example: `mtcars` dataset
 
 ```r
 table(mtcars$vs, mtcars$gear)
-chisq.test(mtcars$vs, mtcars$gear)
+chisq.test(table(mtcars$vs, mtcars$gear))
 ```
 
 ```r
@@ -187,10 +186,9 @@ In chisq.test(vs, gear) : Chi-squared approximation may be incorrect
 ### n by m table: fisher test
 
 #### bsic syntax
-* `conVar`: a continuous variable
-* `catVar`: a categorical variable
+* `table`: count data
 
-`fisher.test(contVar, catVar)`
+`fisher.test(table)`
 
 default
 
@@ -208,7 +206,7 @@ Example: `mtcars` dataset
 | data      | mtcars   | Motor Trend Car Road Tests               |
 
 ```r
-fisher.test(mtcars$vs, mtcars$gear)
+fisher.test(table())
 # Fisher's Exact Test for Count Data
 # 
 # data:  mtcars$vs and mtcars$gear
