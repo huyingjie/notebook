@@ -177,6 +177,7 @@ lwd	|line width relative to the default (default=1). 2 is twice as wide.
 				  </tr>
 
 </table>
+
 ## Margins and Graph Size
 
 <table>
@@ -197,3 +198,44 @@ lwd	|line width relative to the default (default=1). 2 is twice as wide.
 				  <td><strong>pin</strong></td>
 				  <td>plot dimensions (width, height) in inches </td>
 				  </tr>
+				  
+## 3d
+
+### `persp()`
+
+```
+with(mtcars, {
+  set.seed(1)
+  b1 <- seq(-100, 100, length= 100)
+  b0 <- seq(-100, 100, length= 100)
+  x <- rnorm(100)
+  y = rnorm(100)/0.5
+  f <- function(x, y) { (y-b1*x-b0)^2 }
+  z <- outer(b0, b1, f)
+  z[is.na(z)] <- 1
+  op <- par(bg = "white")
+  # persp(b0, b1, z, theta = 30, phi = 30, expand = 0.5, col = "lightblue")
+  persp(b0, b1, z, theta = 30, phi = 30, expand = 0.5, col = "lightblue",
+        ltheta = 120, shade = 0.75, ticktype = "detailed",
+        xlab = "b0", ylab = "b1", zlab = ""
+  ) -> res
+})
+
+```
+
+## two axis cross at 0
+
+* `axes = FALSE, xaxs = "i", yaxs = "i"`
+* `box()`
+
+```r
+with(mtcars, {
+	data <- mtcars
+	plot(data[, c("hp", "wt")], pch = 19, xlab = "Gross horsepower", ylab = "weight (1000 lbs)",
+	axes = FALSE, xlim = c(50, 400), ylim = c(0, 6), xaxs = "i", yaxs = "i")
+	axis(1, at = seq(50, 400, 50))
+	axis(2, at = 0:6)
+	box()
+})
+```
+![](/figs/R/two axis cross at 0.png)

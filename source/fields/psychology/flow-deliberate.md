@@ -49,29 +49,72 @@ the two elements suggested here
 
 ### 6 traits
 
-1. It’s designed to improve performance. 
+**experience is not equal to expertise**
+
+
+1. It’s activity designed specifically to improve performance, often with a teacher’s help. 
 
 	“The essence of deliberate practice is continually stretching an individual just beyond his or her current abilities. That may sound obvious, but most of us don’t do it in the activities we think of as practice.”
 	
 
-1. It’s repeated a lot. 
+1. It’s repeated a lot in the learning zone (not too hard and not too easy activities)
 
 	“High repetition is the most important difference between deliberate practice of a task and performing the task for real, when it counts.”
+
 1. Feedback on results is continuously available. 
 
 	“You may think that your rehearsal of a job interview was flawless, but your opinion isn’t what counts.”
 1. It’s highly demanding mentally. 
 
 	“Deliberate practice is above all an effort of focus and concentration. That is what makes it ‘deliberate,’ as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in.”
-1. It’s hard. 
+	
+	without feedback
+
+	two things will happen: 
+	
+	* You won’t get any better
+	* you’ll stop caring
+	
+1. It’s hard. = highly demanding mentally
 
 	“Doing things we know how to do well is enjoyable, and that’s exactly the opposite of what deliberate practice demands.”
+	
+	Breaking down a task you wish to master into its constituent parts and then working on those areas systematically requires a lot of effort.
+	
 1. It requires (good) goals. 
 
 	“The best performers set goals that are not about the outcome but rather about the process of reaching the outcome.”
 
 
+### phenomenon
 
+
+ * **4 or 5 hours a day seems to be the upper limit of deliberate practice**
+ 
+ * **frequently accomplished in sessions lasting no more than an hour to ninety minutes**
+* not much fun.
+
+
+puts the concept of practice into three zones: 
+
+* the comfort zone
+	not help us improve because we can already do these activities easily
+* the learning zone
+* the panic zone
+	leaves us paralyzed as the activities are too difficult and we don’t know where to start
+
+### Solitude
+Deliberate Practice is best conducted alone for several reasons. 
+
+* It takes intense concentration, and other people can be distracting. 
+* It requires deep motivation, often self-generated. 
+* But most important, it involves working on the task that’s most challenging to you personally. 
+
+	Only when you’re alone can you “go directly to the part that’s challenging to you. 
+	
+	If you want to improve what you’re doing, you have to be the one who generates the move. 
+	
+	Imagine a group class—you’re the one generating the move only a small percentage of the time.” <font color="blue">这就是为什么study group不好</font>
 
 ## Examples
 

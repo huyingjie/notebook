@@ -25,8 +25,8 @@ control = list(maxit = 50)
 
 ## Methods for the `glm` object
 
-summary()
-coefficients
+* `summary()`
+* `coefficients`
 
 ## One variable
 
