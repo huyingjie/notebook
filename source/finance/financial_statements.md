@@ -137,7 +137,7 @@ Calculation|Liabilities|in millions
 ## 3. cash flow statement
 
 Calculation|Cash Flow|in millions
---|--|--
+---|---|---
 1|Net Income|2,863
 2|Depreciation|516
 3|Other non-cash items|264
