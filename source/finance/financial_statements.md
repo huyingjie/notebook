@@ -1,6 +1,6 @@
 ---
 title: Financial Statements
-description: 
+description:
 ---
 
 # Financial Statements
@@ -18,7 +18,7 @@ the 3 most important report
 Calculation |income statement |Explain| in millions|Formula
 ---|---|---|---|---
 1|Revenue|Primary revenue|13,279
-2|cost of revenue|Primary expense|5,348
+2|cost of revenue|Primary expense|5,348|Inventor Turnover ratio = $\frac{\text{Cost of revenue}}{\text{Inventory (line 3 in the asset column)}}
 1-2=3|Gross Margin|Gross Profit|7,931|Gross Profit Margin Ratio = $\frac{\text{Gross Profit (line 3)}}{ \text{Revenue (line 1)}}$
 ||
 4|Sales and Marketing expenses|Secondary expense|1,105
@@ -53,7 +53,7 @@ Assets: something that is owned and expected to generate income for the company
 	* inventory
 
 		3 categories
-		
+
 		1. raw materials
 		2. work in progress
 		3. finished goods
@@ -80,7 +80,7 @@ Assets: something that is owned and expected to generate income for the company
 	* Property, plant, and equipment (PPE)
 		* machines for production
 		* buildings
-		* cars 
+		* cars
 		* office furniture
 
 Liabilities
@@ -89,8 +89,8 @@ equity = Assets - Liabilities
 
 from the most liquid assets
 
-Calculation|Assets|Explanation|in millions
----|---|---|---
+Calculation|Assets|Explanation|in millions|Formula
+---|---|---|---|---
 1|Cash and cash equivalents|Cash in a register or in a bank accounts|1,847
 2|Accounts receivable||3,897
 3|Inventory|638
@@ -105,15 +105,15 @@ Calculation|Assets|Explanation|in millions
 11|Goodwill|3,235
 7+8+9+10+11=12|Total non-current assets|17,933
 ||
-6+12=13|Total assets|27,086
+6+12=13|Total assets|27,086|Return on Assests or investment (ROI) = $\frac{\text{Net Income (Income statment in line 13)}}{\text{Total assets (line 13)}} good > 6%
 
-Calculation|Liabilities|in millions
----|---|---
+Calculation|Liabilities|in millions|Formula
+---|---|---|---
 1|Accounts payable 要付给其他公司的钱|2,183
 2|Notes payable/current borrowing/current financial debt付给银行的|498
 3|Accrued expenses|854
 4|Taxes payable|427
-1+2+3+4=5|Total current liabilities|3,962
+1+2+3+4=5|Total current liabilities|3,962|Current ratio = $\frac{\text{Curent Assets (line 6 in Balance sheet)}}{\text{Current liabilities}}
 ||
 6|Long term debt|3,211
 7|Deferred tax|1,242
@@ -126,14 +126,14 @@ Calculation|Liabilities|in millions
 12|Additional paid in capital|3,261
 13|Retained earnings|15,590
 14|Treasury stocks|-853
-11+12+13+14=15| Total equity|18,398
+11+12+13+14=15| Total equity|18,398|Return on Equity (ROE) = $\frac{\text{Net Income (Income statment in line 13)}}{\text{Equity (line 15)}}$ good company > 8%
 ||
 10+15=16|Total liabilities and quity|27,086
 
 
 * current liabilities: needed to be paid within the next 12 months
 
-	
+
 ## 3. cash flow statement
 
 Calculation|Cash Flow|in millions
@@ -232,6 +232,3 @@ Now|||10.00|
 EPS|16.70
 Dividends||2.9
 Owners' earnings|||13.8
-
-
-
