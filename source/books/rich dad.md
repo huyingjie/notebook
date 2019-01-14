@@ -92,6 +92,7 @@ When I want a bigger house, I first buy assets that will generate the cashflow t
 The asset column generates more than enough income to cover expenses, which the balance reinvested into the asset column. The asset column continues to grow and, therefore, the income it produces grows with it.
 
 ![](/figs/fields/finance/rich-dad/the Rich gets richer.png)
+![](/figs/fields/finance/rich-dad/proper cashflow.png)
 
 ### Why the middle class struggle
 
@@ -100,6 +101,7 @@ Primary income is from salary.
 income increases => taxes increases => expenses and liabilities increases => work for the company, the government & the bank, not yourself
 
 ![](/figs/fields/finance/rich-dad/the middle class struggle.png)
+![](/figs/fields/finance/rich-dad/bad cashflow.png)
 
 **focus efforts on acquiring assets instead of a bigger paycheck** Most people must keep their job and rely on their wages to fund their acquisition of assets
 
@@ -429,3 +431,7 @@ To learn about all the systems necessary in a big company, you’ll need to spen
 1. put aside a set percentage from each paycheck or each payment you received from other sources
 2. deposit that money into an investment savings account
 3. once money goes into the account, NEVER take it out until you are ready to invest it.
+
+
+## Reference
+![](/figs/fields/finance/rich-dad/personal bank statement.png)
