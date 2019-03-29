@@ -1489,6 +1489,24 @@ Trojan, S. and Pokorny, J. (1999). ‘Theoretical Aspects of Neuroplasticity’,
 Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developing Brain’, Journal of the Canadian Academy of Child & Adolescent Psychiatry, 20(4): 265–276.
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222570/>
 
+## Terminology
+
+* Central Nervous System (CNS):  Brain and spiral cord
+* Nucleus:  A group of neurons within the CNS with similar function, connectivity and neurotransmitters <font color="blue">biology里nueclues指细胞核, 含义不一样</font>
+  * Nucleus: inside
+  * Ganglia: outside
+* Tract:  A bundle of axons traveling together within the CNS
+* Synapse: A pont of connection/communication between neurons
+* Afferent: arriving information
+* Efferent: existing information
+* Peripheral Nervous System (PNS): Cranial and peripheral nerves
+* Nerve: a bundle of axons (plus associated connective tissue and blood vessels) located outside the brain and spinal cord
+* Ganglia: a group of neurons outside the CNS with similar function, connectivity and neurotransmitters
+  * Nucleus: inside
+  * Ganglia: outside
+* Somatic Nervous System: Afferent and efferent systems that regulate motor innervation of skeletal musle and sensory information from the external environment
+* Autonomic Nervous System: Afferent and efferent systems that regulate motor innervation of smooth muscle and glands and sensory information from the internal environment
+
 ## Test
 
 * What is the relationship among frontal cortex, prefrontal cortex, and orbitofrontal cortex?
@@ -1543,3 +1561,20 @@ dream
 * How is the new rage for using smartphones and apps to track sleep patterns and dreams altering our understanding of sleep and dreams?
 * What about nightmares?
 * Why do they occurs and is there anything we can do about them?
+
+
+
+1. Gross Anatomy
+2. Spinal Cord
+3. Autonomic Nervous System
+4. Motor Systems
+5. Sensory Systems
+6. Brain Stem
+7. Cranial Nerves
+8. Cortex
+
+* Learn the gross anatomy of the central and peripheral nervous systems.
+* Understand how sensory information enters the brain.
+* Understand how the brain and spinal cord control the muscles.
+* Understand how the autonomic nervous system activates the fight or flight response.
+* Learn the names and functions of the cranial nerves.
