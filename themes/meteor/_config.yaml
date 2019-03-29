@@ -111,6 +111,8 @@ menu:
 sidebar_categories:
   null:
     - index
+  Neuroscience:
+    - neuroscience/depression
   Data Science:
     - datascience/00200_Transformation_and_Expectations
     - datascience/00300_Distributions
