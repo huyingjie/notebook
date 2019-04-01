@@ -16,6 +16,12 @@ In depression, there’s nothing fundamentally wrong with the brain. It’s simp
 
 **neuroal circuits**: The neurons within each region talk to each other, as well as to other regions across the brain. These networks of communicating neurons are called neural circuits. <font color="blue">Your brain works like a series of little computers all connected to each other.</font>
 
+One brain region can be a part of several circuits. Hence circuits interact dynamically.
+
+* 比喻: 机场和航行线路
+* In the brain increased emtional amygdala activity can change what the anterior cingulate focuses on, as well as the habits controlled by the dorsal striatum
+
+
 worry circuit, anxiety, and depression
 pain circuit
 habit circuit
@@ -31,24 +37,63 @@ knowledge required to understand and treat depression
 
 </font>
 
+Each circuit has a certain standard pattern of activity and reactivity, and it varies among people.
+
+**reactive** or **excitable** when a circuit is activated more easily.
+
+* For example, depending on the excitability of the worrying circuit, some people worry more, and some worry less.
+
+Similar words: tendency
+
+<font color="blue">Example 1
+
+In my case, I have a tendency to feel lonely, particularly when I’ve been writing all day. I don’t know why, but that’s just the tendency of my social circuitry. Other writers might not feel the same, but that doesn’t help me. So if I know that I have a tendency to feel lonely, I should just make a plan ahead of time to hang out with friends after a long day of writing. But there’s the problem. Making plans often stresses me out. I don’t know why, but that’s just the tendency of my planning circuitry. Many people may enjoy making plans, but not me. For me, the tendencies feel lonely, I should just make a plan ahead of time to hang out with friends after a long day of writing. But there’s the problem. Making plans often stresses me out. I don’t know why, but that’s just the tendency of my planning circuitry. Many people may enjoy making plans, but not me. For me, the tendencies of these two brain circuits could get me caught in a downward spiral. The loneliness makes me feel bad and could be solved by making plans, but making plans stresses me out and also makes me feel bad. And the worse I feel, the harder it is to make plans. So these two circuits feed off each other and snowball out of control, like the interaction between the microphone and speaker that creates screeching feedback.
+
+Given that I know my tendencies, I can choose to write at a coffee shop instead of staying at home; or I can meet a friend for lunch afterward, go for a run, or make any one of a dozen tiny life changes that could improve my situation
+
+Example 2
+
+Given that I know my tendencies, I can choose to write at a coffee shop instead of staying at home; or I can meet a friend for lunch afterward, go for a run, or make any one of a dozen tiny life changes that could improve my situation.
+
+Sometimes the best solution is not always the most straightforward one. It turns out that other activities—like hanging out with friends, getting a better night’s sleep, or even expressing more gratitude—could all help Janice’s brain jump out of its rut. Because all of our brain circuits interact to keep us stuck, changing activity in one circuit can have a ripple effect across the whole system.
+
+</font>
+People have different things they worry about and different triggers that stress them out. For some planning is stressful, but for others planning can be comforting. Some people worry a lot about being alone, and others need lots of alone time. The different tendencies of your various brain circuits mean that everyone has different downward spirals they’re likely to get stuck in and thus different upward spirals that will make them feel better. The trick is finding the right one for you, and hopefully this book will help with that.
+
+It turns out that just a little change can be enough to push you away from depression and up toward a happier state. That’s because in complex systems like the brain, even a little shift can change the resonance of the whole system.
 
 <font color="blue">Depression generally involves a problem with how the thinking and feeling circuits in the brain is not working. The circuits that cause depression rely on relatively few.
 
-4 parts of the brain in particular are to blame:
+### 4 parts of the brain in particular are to blame:
 
 1. the prefrontal cortex
 2. the limbic system
 3. striatum
 4. insula
 
-4 parts are closely connected
 
 To simplify, the prefrontal cortex is basically the thinking part of the brain, and the limbic system is the feeling part.
 
 In depression, something is off with the way these regions act and communicate with each other. The thinking prefrontal cortex is supposed to help regulate the feeling limbic system, but it’s not doing a good job.
 </font>
 
-There is no brain scan, MRI, or EEG that can diagnose depression -- it's simply a by-product of the brain circuits we all have.
+**There is no brain scan, MRI, or EEG that can diagnose depression -- it's simply a by-product of the brain circuits we all have.**
+
+### 4 parts are closely connected
+
+* the anterior cingulate contects to
+  * the ventromedial prefrontal cortex
+  * dorsolateral prefrontal cortex
+  * the insula
+  * amygdala
+* the dorsolateral prefrontal cortex connects to
+  * the ventral prefrontal cortex
+  * dorsal striatum
+  * hippocampus
+
+* parts of the verntral prefrontal cortext connect to
+  * the amygdala
+  * nucleus accumbens
 
 ## Depression is a downward spiral.
 
@@ -118,7 +163,7 @@ expressing gratitude
 => giving you more to be grateful for
 
 
-# Habit
+## Habit
 
 
 To apply the new knowledge will involve breaking the old habits and making a clear plan for holding yourself accountable to embedding the new ways of operating
@@ -154,6 +199,7 @@ Phillippa Laaly from Cancer REsearch UK Health Behaviour Research Centre: averag
   * experiment with habit loops: a cue, aroutine, and a reward
   * meditate the obstackles and solutions
   * Recognize the importance of learning for the longevity of memory
+
 ## Abbreviations
 
 * ACC Anterior cingulate cortex
@@ -360,18 +406,6 @@ The list below states how areas relate to functional areas and/or gyral landmark
 ![](/figs/neuroscience/corpus callosum 8.png)
 
 ## frontal cortex
-
-function
-* self motivation
-* appropriateness of behavior
-cognitive control
-planning
-executive functions
-goal setting
-descioin-making
-action planning
-
-
 ### prefrontal cortex(PFC)
 
 Animation | Front view|Lateral view|Medial perspective
@@ -383,14 +417,22 @@ Animation | Front view|Lateral view|Medial perspective
 * alias: CEO of the brain
 * circuit: the center of planning and decision-making circuits
 * function:
+    * self motivation
+    * control impulses
+      * the master of inhibition. inhibit impulses, distractions and irrelevant thoughts is crucial to **focused thinking**.
+      When the PFC dos not inhibit well, the result will be attention deficit hyperactivity disorder (ADHD).
+    * appropriateness of behavior
+    cognitive control
+    planning
+    executive functions
+    goal setting
+    descioin-making
+    action planning
     planning
     executive decisions
     rational thought
-    control impulses
-    motivation
     generate thoughts and inihibits distracting Thoughts
-    the master of inhibition. inhibit impulses, distractions and irrelevant thoughts is crucial to focused thinking.
-    When the PFC dos not inhibit well, the result will be attention deficit hyperactivity disorder (ADHD).
+
 
     emotion (e.g., fear, anxious) overrides plan, intelligent action
 
@@ -430,9 +472,9 @@ Hence, the primary distinction in the prefrontal cortex is between dorsolateral 
 
 * ventromedial prefrontal cortex: emotional & self-focus
   * motivation
-  * controlling impmulses
+  * controlling impulses
 
-  <font color="red">为什么motivation和impmulses在一起</font>
+  <font color="red">为什么motivation和impulses在一起</font>
 * dorsolateral prefrontal cortex thinks more about the outside world => more responsible for planning and problem solving.
 ## The difference in emotional between prefrontal cortex and limbic system
 
@@ -518,11 +560,16 @@ composed of 4 regions
 * memory
 * desire
 
-**difference between stress and anxiety**
+### difference between desire and motivation
 
-* Stress is caused by an existing stress-causing factor or stressor.
-* Anxiety is stress that continues after that stressor is gone.
+* **motivation is reason**: the reason or reasons one has for acting or behaving in a particular way: escape can be a strong motivation for travel.
+  * the general desire or willingness of someone to do something: keep staff up to date and maintain interest and motivation.
+* **desire is emotion**: a strong feeling of wanting to have something or wishing for something to happen: [with infinitive] : a desire to work in the dirt with your bare hands.
 
+### difference between stress and anxiety
+
+* **Stress** is caused by an existing stress-causing factor or stressor.
+* **Anxiety** is stress that continues after that stressor is gone.
 
 function|brain part
 ---|---
@@ -530,7 +577,11 @@ stress| hypothalamus
 anxiety, fear, other negative emotion| amygdala
 create long-term memories, memory bias towards sad events|hippocampus
 control focus & attention|cingulate cortex
+notice mistakes <br> a gateway between limbic and prefrontal regions <br>  pain circuit| serotonin + anterior cingulate cortex
 motivation| serotonin + Ventromedial prefrontal cortex
+fatigue|In depression, reduced dopamine activity in the dorsal striatum is primarily responsible for feelings of fatigue.
+nothing seems enjoyable|In depression, reduced dopamine activity in the nucleus accumbens explains why nothing seems enjoyable
+pain <br> bodily awareness|insula
 
 
 <font color="blue">motivation, impulsion, appreciation是prefrontal system</font>
@@ -551,6 +602,8 @@ motivation| serotonin + Ventromedial prefrontal cortex
 ![](/figs/neuroscience/hypothalamus5.jpg)
 ![](/figs/neuroscience/hypothalamus6.jpg)
 ![](/figs/neuroscience/hypothalamus7.jpg)
+![](/figs/neuroscience/hypothalamus8.gif)
+![](/figs/neuroscience/hypothalamus9.gif)
 
 **Elevated stress is both a cause and a symptom of depression**
 
@@ -606,7 +659,7 @@ scan all incoming stimulation in this immediate momemnt and determine the level 
 ![](/figs/neuroscience/hippocampus5.jpg)
 ![](/figs/neuroscience/hippocampus6.gif)
 
-**People with depression often have trouble remembering happier times but have n problem recalling sad events. This memory bias is because of the hippocamus**
+**People with depression often have trouble remembering happier times but have no problem recalling sad events. This memory bias is because of the hippocamus.**
 
 location: adjacent to the amygdala
 function:
@@ -615,7 +668,7 @@ function:
 
   * particulary save emotional memories
   * **problematic in depression, because the new memories hippocampus forms will skew to the negative**
-* central to **cortext-dependent memory**: the fact that it's eaiser to remember things that relate closely to your current situation
+* central to **context-dependent memory**: the fact that it's eaiser to remember things that relate closely to your current situation
 
   example: It's eaiser to recall memories from undergraduate days if you are vising your old college campus, because the context is the same
 
@@ -637,11 +690,13 @@ Depression is stressful and thus disrupts the proper functioning of the hippocam
 Fortunately, it’s possible to grow new neurons in the hippocampus.
 
 </b>
+
 ### 4. cingulate cortex: control focus & attention
 
 ![](/figs/neuroscience/cingulate cortex1.jpg)
 ![](/figs/neuroscience/cingulate cortex2.jpg)
 ![](/figs/neuroscience/cingulate cortex3.png)
+![](/figs/neuroscience/cingulate cortex4.png)
 
 huge importance in depression: what you focus on, whether by automatic habit or willful choice, makes a huge difference to the mood.
 
@@ -670,6 +725,115 @@ huge importance in depression: what you focus on, whether by automatic habit or 
 ![](/figs/neuroscience/anterior_cingulate_cortex2.png)
 ![](/figs/neuroscience/anterior_cingulate_cortex3.jpg)
 ![](/figs/neuroscience/anterior_cingulate_cortex4.png)
+
+## insula: pain & bodily awareness
+
+![](/figs/neuroscience/insula1.gif)
+![](/figs/neuroscience/insula2.png)
+![](/figs/neuroscience/insula3.png)
+![](/figs/neuroscience/insula4.jpg)
+![](/figs/neuroscience/insula5.jpg)
+![](/figs/neuroscience/insula6.png)
+![](/figs/neuroscience/insula7.png)
+
+* location: part of the cortex that folds inward a couple inches from ears, close to the amygda and hippocampus.
+* function:
+  * pain circuit
+  * bodily awareness
+    Increased insula activity makes you hyperaware of any problems in the body, even if they're small.
+
+Some people have brains that are more reactive to pain, and this puts them at risk for a downward spira.
+
+**People with depression are more likely to suffer from chronic pain and tend to worry more about getting sick. **
+
+
+
+**Because of an increased awareness of bodily sensations, which is mediated by the insula**
+
+
+## basal ganglia: a collection of nuclei on both sides of the thalamus
+
+location: at the bottom of the brain, ouside and above the limbic system
+function: seek pleasure and rewrad and controlling movement
+**hold old habit**
+control of voluntary motor movements
+procedural learning
+habit learning
+eye movements
+
+![](/figs/neuroscience/basal ganglia1.jpg)
+![](/figs/neuroscience/basal ganglia2.jpg)
+components
+
+* dorsolateral striatum:
+  * control movement
+  * connected to sensorimotor functioning (seeing, hearing, moving, etc.)
+
+  When we move a part of body in a new way and it feels good, this area is active
+
+  When we feel a sense of accomplishment for having tried something new, the association is recognised here.
+
+  Repetition of actions and behaviours impacts on the striatum to create new habits. Hence a habit is when you’ve done something so many times that your body knows how to do it better than your mind.
+
+### striatum
+
+![](/figs/neuroscience/striatum1.png)
+![](/figs/neuroscience/striatum1.jpg)
+
+depression accompanied by bad habits caused by disrupted activity in the striatum
+
+* impulsiveness
+* poor coping skills
+* addiction
+* procrastination
+* feeling fatigued
+* unmotivated
+
+3 components
+
+1. putamen
+2. caudate
+3. nucleus accumbens
+
+
+2 main parts of striatum that are particularly important in depression + dopamine
+
+1. dorsal striatum: the upper part
+2. nucleus accumbens: the lower part (ventral striatum)
+
+
+### dorsal striatum: habit circuit
+
+**In depression, reduced dopamine activity in the dorsal striatum is primarily responsible for feelings of fatigue.**
+
+
+### nucleus accumbens (ventral striatum)
+
+![](/figs/neuroscience/nucleus accumbens1.jpg)
+![](/figs/neuroscience/nucleus accumbens2.jpg)
+![](/figs/neuroscience/nucleus accumbens3.jpg)
+![](/figs/neuroscience/nucleus accumbens4.jpg)
+![](/figs/neuroscience/nucleus accumbens5.png)
+![](/figs/neuroscience/nucleus accumbens6.jpg)
+
+* closely connected to the limbic systems
+* responsible for impulsive behavior
+
+  Example
+
+  * eating too many sweets
+  * drug additction`
+
+* Dopamine is relased in the nucleus accumbens when we doing anything fun and exciting
+
+  **In depression, reduced dopamine activity in the nucleus accumbens explains why nothing seems enjoyable**
+### caudate
+
+![](/figs/neuroscience/caudate1.png)
+![](/figs/neuroscience/caudate2.jpg)
+![](/figs/neuroscience/caudate3.jpg)
+![](/figs/neuroscience/caudate4.jpg)
+
 
 
 ## parietal lobe
@@ -703,25 +867,6 @@ coopdinates movement
 posture
 balance
 
-
-#### basal ganglia: a collection of nuclei on both sides of the thalamus
-
-location: at the bottom of the brain, ouside and above the limbic system
-function: seek pleasure and rewrad and controlling movement
-**hold old habit**
-components
-
-* dorsolateral striatum:
-  * control movement
-  * connected to sensorimotor functioning (seeing, hearing, moving, etc.)
-
-  When we move a part of body in a new way and it feels good, this area is active
-
-  When we feel a sense of accomplishment for having tried something new, the association is recognised here.
-
-  Repetition of actions and behaviours impacts on the striatum to create new habits. Hence a habit is when you’ve done something so many times that your body knows how to do it better than your mind.
-
-
 ### Broca's area:
 
 location: left hemisphere of the frontal cortex
@@ -740,6 +885,7 @@ coordinating Signals
 
 
 ## neurotransmitter
+Different regions often rely on different neurotransmitter
 
 * gamma-aminobutyric acid (GABA)
 * endorphins: help us power through resistance or even pain.
@@ -751,6 +897,10 @@ coordinating Signals
 
 * adrenaline/epinephrine
 
+brain part|neurotransmitter
+---|---
+prefrontal cortex|serotonin & norepinephrine
+striatum|dopamin
 
 
 ### organization of a neurotransmitter system
