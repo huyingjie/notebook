@@ -19,7 +19,7 @@ In depression, there’s nothing fundamentally wrong with the brain. It’s simp
 One brain region can be a part of several circuits. Hence circuits interact dynamically.
 
 * 比喻: 机场和航行线路
-* In the brain increased emtional amygdala activity can change what the anterior cingulate focuses on, as well as the habits controlled by the dorsal striatum
+* In the brain increased emotional amygdala activity can change what the anterior cingulate focuses on, as well as the habits controlled by the dorsal striatum
 
 
 worry circuit, anxiety, and depression
@@ -822,7 +822,7 @@ depression accompanied by bad habits caused by disrupted activity in the striatu
   Example
 
   * eating too many sweets
-  * drug additction`
+  * drug additction
 
 * Dopamine is relased in the nucleus accumbens when we doing anything fun and exciting
 
@@ -883,7 +883,14 @@ function: understand written or spoken language
 relay station
 coordinating Signals
 
+## brainstem
 
+![](/figs/neuroscience/brainstem1.jpg)
+![](/figs/neuroscience/brainstem1.2pg)
+![](/figs/neuroscience/brainstem1.3pg)
+![](/figs/neuroscience/brainstem1.4pg)
+![](/figs/neuroscience/brainstem1.5pg)
+![](/figs/neuroscience/brainstem1.6pg)
 ## neurotransmitter
 Different regions often rely on different neurotransmitter
 
