@@ -99,6 +99,15 @@ anxiety without worry
 Pay attention to what you can control. If the future were completely under our control—or at least predictable—there would be nothing to be anxious about. Feeling in control reduces anxiety, worrying, and even pain. These effects are mediated by the dorsolateral prefrontal cortex, so **strengthening dorsolateral activity helps create an upward spiral. You can do this by simply paying more attention to what is in your control, which helps modulate your brain activity and quickly reduces anxiety.**
 <font color="blue">我初中时候有做到. MBTI里增加T会减少F, 这里的F是emtion</font>
 
+#### breathe
+
+a quick way to immediately boost willpower: slow breathing down to 4-6 breaths per minute
+
+10-15 seconds per breath
+
+Slowing the breath down activates the prefrontal cortex and increases heart rate variability
+
+exercise
 
 ## Habit Circuit
 
@@ -178,6 +187,13 @@ After the nucleus accumbens learn imuplses, someting you do or sense triggers th
 
 Problem: the dopamine that is released in anticipation of pleasure actually motivates the actions that lead to that pleasure. Each step along the way gives you a little boost of dopamine that propels you on to the next step.
 
+Dopamine itself doesn't create hapiness itself -- the feeling is more like arousal
+
+Dopamine is for action, not happiness.
+
+High levels of dopamine amplify the lure of immediate gratification, less concerning about long-term consequences.
+
+**Dopamine triggers the release of stress hormones. You feel anxious when you anticipate your object of desire.**
 
 <div style="border: 1px solid blue">
 **Figure out your triggers**
@@ -280,12 +296,13 @@ Hence, when you are fatigue, any actions will probably be old routines or impuls
 
 **However, because dorsal striatum activity is also reduced, an impulse is the only motivation to do things. This explains why on some days it's just so hard to get out of bed**
 
+### How the occupied prefrontal cortex is related to routine/pattern/impulse
+<font color="blue">When the prefrontal cortex is occupied by other stuff, you will use routines or impluses to act</font>
 
-### stress triggers coping routines
+### Stress  and negative emotions such as, anger, sadness, self-doubt, and anxiety, increase impulses and trigger coping routines
 
 1. Stress causes dopamine release in the dorsal striatum. (no pleasure)
 2. The dorsal striatum automatically activates coping habits.
-
 
 
 Coping routines are some of the deepest, most ingrained routines.
@@ -304,6 +321,12 @@ Coping routines reduce amygdala activity and the body's stress response (hypotha
   => down the rabit hole
 
 Example
+
+<font color="blue">我的coping routines 是说
+
+1. "我决定...."
+2. "我决定全部做完"
+</font>
 
 > Coping habits do a lot to explain Billi’s situation. Why did he eat so much? As a kid, with the chaos in his house, eating became his coping mechanism for stress. Eating provided a distraction, an immediate pleasure, and it also reduced his body’s stress response. In the beginning, it was just an impulse to eat, but eventually it became deeply ingrained as a routine. Once a routine, pleasure was no longer a part of it, nor was attention, but it still provided a sense of control in a crazy world. It became an addiction. When he was stressed, if he stopped paying attention to his actions for even a few seconds, he would find himself walking to the kitchen or driving to McDonald’s or calling up Domino’s. Your oldest habits are probably the ones that used to distract you from life’s greatest stresses, but now that your life situation has changed, they’re no longer helpful. And yet you still do them, because they’re there.
 
@@ -356,6 +379,39 @@ Slow breathing calms the brain's stress response.
 
 </div>
 
+### relieve stress
+
+* exercising
+* playing sports
+* praying
+* attending a religious service
+* reading
+* listening to music
+* spending time with friends or family
+* getting a massage
+* going outside for a walk
+* meditating or doing yoga,
+* spending time with a creative hobby
+
+<font color="blue">我一般用reading</font>
+
+the least effective strategies
+
+* gambling
+* shopping
+* smoking
+* drinking
+* eating
+* playing video games
+* surfing the Internet
+* watching TV or movies for more than 2 hours
+
+the real stress relievers boost mood-enhancing brain chemicals like serotonin and GABA, as well as the feel-good hormone oxytocin. They also help shut down the brain’s stress response, reduce stress hormones in the body, and induce the healing relaxation response.
+
+
+### guilt/regret triggers impulses and coping habits
+
+
 ### control habits (routines & impulses)
 
 Once a habit is tirggered, the only way to control it is through activation of the prefrontal cortex.
@@ -398,6 +454,9 @@ Setting goals changes the activity in multiple brain regions, including
 * prefrontal cortex
 * anterior cingulate
 </div>
+
+
+### Avoiding is better than resisting.
 
 ### How we create habits
 
@@ -461,8 +520,137 @@ Stress biases the brain toward old habits over intentional actions.
 
 A little stress has some benefits: habits are learned more deeply when you are stressed.
 
-#### 3. making mistakes is normal because of limited serotonin and because the prefrontal cortex cannot be conscious all the time
+#### 3. making mistakes is normal because of limited serotonin and because the prefrontal cortex cannot be conscious all the time = not to be too hard on yourself = self-forgivenss
 
+Research shows that taking this point of view reduces guilt but increases personal accountability—the perfect combination to get you back on track with your willpower challenge. Bring to mind a specific time when you gave in to temptation or procrastination, and experiment with taking the following three points of view on that failure. When you experience a setback, you can bring these perspectives to mind to help you avoid a downward spiral of guilt, shame, and giving in again.
+
+1. **What are you feeling?** As you think about this failure, take a moment to notice and describe how you are feeling.
+
+	* What emotions are present?
+	* What are you are feeling in your body?
+	* Can you remember how you felt immediately after the failure?
+	* How would you describe that?
+
+	Notice if self-criticism comes up, and if it does, what you say to yourself. The perspective of mindfulness allows you to see what you are feeling without rushing to escape.
+
+2. **You’re only human.** Everyone struggles with willpower challenges and everyone sometimes loses control. This is just a part of the human condition, and your setback does not mean there is something wrong with you. Consider the truth of these statements. Can you think of other people you respect and care about who have experienced similar struggles and setbacks? This perspective can soften the usual voice of self-criticism and self-doubt.
+3. What would you say to a friend? Consider how you would comfort a close friend who experienced the same setback. What words of support would you offer? How would you encourage them to continue pursuing their goal? This perspective will point the way to getting back on track.
+
+<font color="blue">urge是来自nuclues accumbens, 那么用prefrontal cortex来解决</font>
+
+In request for self-control, the usual weapons -- guilt, stress, and shame -- don't work.
+
+guilt, stress, and shame use limbic system, not the prefrontal cortex.
+
+We are easily using guilt, stress, and shame  becuase limbic sytem uses less energy to activate and is a more automatic organ.
+
+  ## Ch 9. The Limits of "I won't" power
+
+  The more you try to push away a thought, the more liekly it is to fight its way back into consciousness.
+
+  a paradoxical effect: People thought about it more than when they weren't trying to control their thoughts, and even more than when they were intentionally trying to think about it. The effect was strongest when people were already stressed out, tired, or distracted.
+
+
+  1. opeartor: direct attention toward anything other than the forbidden thought: the prefrontal cortex, self-control, require mental energy
+  2. monitor: look for any evidence that you are thinking, feeling, or doing whatever you don't want to think, feel, or do: threat-dection system: automatically without much mental effort
+
+  If operator is tired, monitor takes over.
+
+  **The brain is constantly processing the forbidden content just outside of conscious awareness.**
+
+
+  <hr>
+
+  ### under the microscope: investigating ironic rebound
+
+  Is there something you try to keep out of your mind? If so, examine the theory of ironic rebound. Does suppression work? Or does trying to push something out of your mind make it come back stronger? (Yes, you are going to give the monitor the job of monitoring the monitor.)
+
+  <hr>
+
+  ### How to avoid ironic rebound: give up thought control
+
+  stop trying to control unwanted thoughts and emotions: less intrude into conscious awareness
+
+  **Paradoxically, permission to think a thought reduces the likelihood of thinking it.**
+
+  <hr>
+
+  ### willpower experiment: feel what you feel, but don't believe everything you think
+
+  When an upsetting thought comes to mind, instead of instantly trying to distract yourself from it, let yourself notice the thought. Oftentimes, our most disturbing thoughts are
+
+  * familiar—the same worry
+  * the same self-criticism
+  * the same “memory.
+  	* “What if something goes wrong?”
+  	* “I can’t believe I did that. I’m so stupid.”
+  	* “If only that hadn’t happened. What could I have done differently?”
+
+  These thoughts pop up like a song that gets stuck in our heads, seemingly out of nowhere, but then is impossible to get rid of. Let yourself notice whether the upsetting thought is an old, familiar tune—that’s your first clue that it is not critically important information you need to believe. Then shift your attention to what you are feeling in your body. Notice if there is any tension present, or changes to your heart rate or breathing. Notice if you feel it in your gut, your chest, your throat, or anywhere else in your body. Once you’ve observed the thought and feelings, shift your attention to your breathing. Notice how it feels to breathe in and breathe out. Sometimes the upsetting thought and feelings naturally dissipate when you do this. Other times, they will keep interrupting your attention to your breath. If this happens, imagine the thought and feelings like clouds passing through your mind and body. Keep breathing, and imagine the clouds dissolving or floating by. Imagine your breath as a wind that dissolves and moves the clouds effortlessly. You don't need to make the thought go away; just stay with the feeling of your breath.
+
+
+  Trying to avoid unwanted feelings often leads to self-destructive behavior, whether it’s a procrastinator trying to avoid anxiety, or a drinker trying to avoid feeling alone. For your willpower challenge, see if there is a feeling you are trying not to feel. What would happen if you gave yourself permission to feel it, using the breath and cloud imagery?
+
+  <font color="blue">对我来说就是旅游</font>
+
+  ### the power of acceptance
+
+  accept whatever thoughts or feelings they had about the chocolate, but also remember that they didn’t have to act on those thoughts and feelings. While not controlling their thoughts, they still had to control their behavior.
+
+  <hr>
+
+  ### willpower experiment: accept those cravings -- just don't act on them
+
+  1. Notice that you are thinking about your temptation or feeling a craving.
+  2. Accept the thought or feeling without trying to immediately distract yourself or argue with it. Remind yourself of the white-bear rebound effect.
+  3. Step back by realizing that thoughts and feelings aren’t always under your control, but you can choose whether to act on them.
+  4. Remember your goal. Remind yourself of whatever your commitment is, as the students reminded themselves of their agreement not to eat the Hershey’s Kisses.
+
+  <hr>
+
+  ### willpower experiment: turn "I won't" into "I will"
+
+  try one of the following strategies for flipping your focus:
+
+  * What could you do instead of the “I won’t” behavior that might satisfy the same needs?
+
+  	Most bad habits are an attempt to meet a need, whether it’s reducing stress, having fun, or seeking approval. You can get the focus off of prohibiting your bad habit by replacing it with a new (hopefully, healthier) habit. One of my students was trying to quit coffee and turned to tea as a substitute. It had all the same benefits—being a good excuse for a break, giving him more energy, easy to get anywhere—without as much caffeine.
+
+  * If you weren’t doing the bad habit, what might you be doing instead?
+
+  	Most of our addictions and distractions take time and energy away from something else we could be doing. Sometimes focusing on that missed opportunity is more motivating than trying to quit the bad habit.
+
+  	One of my students felt like she was wasting her time getting sucked into reality television shows. She had more success at turning off the TV when she set a goal for what she should use the time for instead—learning to be a better cook. (She started by substituting cooking shows for the shows she had been watching—a good first step—then transitioned from couch to kitchen.)
+
+  * Can you redefine the “I won’t” challenge so that it becomes an “I will” challenge?
+
+  	Sometimes the very same behavior can be thought of in two different ways. For example, one of my students redefined “not being late” as “being the first person there” or “arriving five minutes early.” This may not sound like much of a difference, but he found himself far more motivated—and less likely to be late—when he turned being on time into a race he could win. If you focus on what you want to do, instead of what you don't want to do, you sidestep the dangers of ironic rebound
+
+
+  <hr>
+
+  ### willpower experiment: surf the urge <font color="blue">urge是来自striatum, 那么用prefrontal cortex来解决</font>
+
+  When the urge takes hold, pause for a moment to sense the body.
+
+  * What deos the urge feel like?
+  * Is it hot or code?
+  * Do you feel tension anywhere in your body?
+  * What's happening with your heart rate, your breathing, or your gut?
+
+  Stay with the sensations for at least for 1 minute.
+
+  Notice whether the feelings fluctuate in intensity or quality.
+
+  Not acting on an urge can sometimes increases its intensity. See if you can stay with these sensations without trying to push them away, and without acting on them.
+
+  <hr>
+
+  ### inner acceptance, outer control
+
+  The posite of suppression is not self-indulgence.
+
+  tempation, self-criticism, stress
 #### 4. increase serotonin for better habits
 
 The mashmallow experiment is a test of prefrontal cortex's serotonin function and its ability to override the routines and impluses from striatum.
@@ -496,8 +684,6 @@ delayed gratification: greater ventrolateral prefrontal activity which helps con
   Exercise increases both serotonin production and release
 
   In particular, aerobic exercises
-
-
 
 
 #### 5. activate prefrontal cortex in the right way
@@ -535,7 +721,7 @@ delayed gratification: greater ventrolateral prefrontal activity which helps con
   Larsen, R. J., Kasimatis, M., & Frey, K. (1992). Facilitating the fur- rowed brow: An unobtrusive test of the facial feedback hypothesis applied to unpleasant affect. Cognition & Emotion, 6(5): 321–338.
 
   **When you recognize the feeling when you are upset, sad, anxious, or stressed, you will actually feel a little better.**
-
+4. meditation
 #### 5. change environment
 
 habits are triggered by

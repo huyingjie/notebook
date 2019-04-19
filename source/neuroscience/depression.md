@@ -3,18 +3,18 @@ title: Neuroscience
 ---
 
 # depression
-Depression is defined by a collection of symptoms. Researhers don't know specific cause.
+Depression is defined by a collection of symptoms. Researchers don't know specific cause.
 
 No lab test, no MRI scan; it's just the symptoms.
 
 In depression, there’s nothing fundamentally wrong with the brain. It’s simply that the particular tuning of the neural circuits creates the tendency toward a pattern of depression. It has to do with the way the brain deals with stress, planning, habits, decision making, and a dozen other things—the dynamic interaction of all those circuits. And once the pattern starts to form, it causes dozens of tiny changes throughout the brain that create a downward spiral.
 
-**Depression** is primarily a result of poor communication between the thinking prefrontal cortex and the emotional limbic system. Prefrontal cortex and limibc system are called the **fronto-limbic system**.
+**Depression** is primarily a result of poor communication between the thinking prefrontal cortex and the emotional limbic system. Prefrontal cortex and limbic system are called the **fronto-limbic system**.
 
 **Good news: small changes in complex systems like the brain can sometimes have big effects.**
-## neuroal circuits
+## neural circuits
 
-**neuroal circuits**: The neurons within each region talk to each other, as well as to other regions across the brain. These networks of communicating neurons are called neural circuits. <font color="blue">Your brain works like a series of little computers all connected to each other.</font>
+**neural circuits**: The neurons within each region talk to each other, as well as to other regions across the brain. These networks of communicating neurons are called neural circuits. <font color="blue">Your brain works like a series of little computers all connected to each other.</font>
 
 One brain region can be a part of several circuits. Hence circuits interact dynamically.
 
@@ -26,9 +26,9 @@ worry circuit, anxiety, and depression
 pain circuit
 habit circuit
 decision-making circuit
-ciruits for sleep, memory, mood, planning, enjoyment, and more, and they all communicate with each other.
+circuits for sleep, memory, mood, planning, enjoyment, and more, and they all communicate with each other.
 
-<font color="blue">The disease of depression is a pattern of activity that arises from the interactions of all these circuits. While that might not sould like uch, the effects can be devastating.
+<font color="blue">The disease of depression is a pattern of activity that arises from the interactions of all these circuits.
 
 knowledge required to understand and treat depression
 
@@ -69,7 +69,7 @@ It turns out that just a little change can be enough to push you away from depre
 1. the prefrontal cortex
 2. the limbic system
 3. striatum
-4. insula
+4. insular
 
 
 To simplify, the prefrontal cortex is basically the thinking part of the brain, and the limbic system is the feeling part.
@@ -81,17 +81,17 @@ In depression, something is off with the way these regions act and communicate w
 
 ### 4 parts are closely connected
 
-* the anterior cingulate contects to
+* the anterior cingulate connects to
   * the ventromedial prefrontal cortex
   * dorsolateral prefrontal cortex
-  * the insula
+  * the insular
   * amygdala
 * the dorsolateral prefrontal cortex connects to
   * the ventral prefrontal cortex
   * dorsal striatum
   * hippocampus
 
-* parts of the verntral prefrontal cortext connect to
+* parts of the ventral prefrontal cortex connect to
   * the amygdala
   * nucleus accumbens
 
@@ -104,7 +104,7 @@ Maybe one Friday night you’re invited to a party, but you have a brief thought
 **Downward spirals occur because the events that happen to you and the decisions you make change your brain activity**.
 
 * If your brain activity changes for the worse, it contributes to everything snowballing out of control, which further exacerbates your negative brain changes, and so on.
-* Fortunately, for most people, the activity in various brain circuits allows them to stop and reverse the downward spiral. But others aren’t so lucky.”
+* Fortunately, for most people, the activity in various brain circuits allows them to stop and reverse the downward spiral. But others aren’t so lucky.
 
 
 **The big problem with the downward spiral of depression is that it doesn’t just get you down, it keeps you down.**
@@ -126,7 +126,7 @@ The downward spiral of depression works in the same way: specific tuning of neur
 
 ## symptom of depression
 
-* feel numb, like an emptiness where emotion should be.
+* Feel numb, like an emptiness where emotion should be.
 * Hopeless and helpless.
 * Things that used to be enjoyable aren’t fun anymore: food, friends, hobbies. Energy plummets.
 * Everything feels difficult, and it’s hard to explain why, because it shouldn’t be.
@@ -134,7 +134,7 @@ The downward spiral of depression works in the same way: specific tuning of neur
 * It’s hard to fall asleep and to stay asleep.
 * Aches and pains are felt more deeply.
 * It’s hard to concentrate, and you feel anxious, ashamed, and alone.
-* REcurrent thoughts of death or suicide
+* Recurrent thoughts of death or suicide
 
 ## upward spiral
 
@@ -143,7 +143,7 @@ It often takes only a few positive emotions to kick-start the process, which the
 Fredrickson, B. L., & Joiner, T. (2002). Positive emotions trigger upward spirals toward emotional well-being. Psychological Science, 13(2): 172–175.
 
 positive life changes
-=> postive nueral changes ( electrical activity, neurotransmitter, even produce new neurons; i.e. neuroplasticity)
+=> postive neural changes ( electrical activity, neurotransmitter, even produce new neurons; i.e. neuroplasticity)
 => tune brain's circuitry
 => further positive life changes.
 
@@ -169,10 +169,10 @@ expressing gratitude
 To apply the new knowledge will involve breaking the old habits and making a clear plan for holding yourself accountable to embedding the new ways of operating
 
 motivation + discipline
-Initial motivation disappears, then the real key to change is onging discipline to ensure the repetition required to create the new habit.
+Initial motivation disappears, then the real key to change is ongoing discipline to ensure the repetition required to create the new habit.
 
 
-Phillippa Laaly from Cancer REsearch UK Health Behaviour Research Centre: average 66 days to form a habit
+Phillippa Laaly from Cancer Research UK Health Behavior Research Centre: average 66 days to form a habit
 
 
 1. build synapse. where????
@@ -193,11 +193,11 @@ Phillippa Laaly from Cancer REsearch UK Health Behaviour Research Centre: averag
   * focus on CAN, rather than can't or won't
   * focus on the possibilities and the positives and get curious
   * Ask "When I take action what new things will I learn and what new things will I experience, regardless of the outcome?"
-  * When challendges arise, ask "What is possible when I break through?"
+  * When challenges arise, ask "What is possible when I break through?"
   * Keep curious rather than berating yourself or giving up
   * match with values
-  * experiment with habit loops: a cue, aroutine, and a reward
-  * meditate the obstackles and solutions
+  * experiment with habit loops: a cue, a routine, and a reward
+  * meditate the obstacles and solutions
   * Recognize the importance of learning for the longevity of memory
 
 ## Abbreviations
@@ -215,7 +215,7 @@ Phillippa Laaly from Cancer REsearch UK Health Behaviour Research Centre: averag
 * OFC Orbital frontal cortex:
 * PET Positron emission tomography
 * PFC Prefrontal cortex
-* LPFC Left prefrontal ortex
+* LPFC Left prefrontal cortex
 * PNS Parasympathetic nervous system
 * SNS Sympathetic nervous system
 * SPECT Single-photon emission computed tomography
@@ -233,21 +233,29 @@ Orbital Above the orbits of the eyes
 
 ## Neuroscience
 
-Neuroscience is the study of the structure and function of the nervous system and brain and their relation to behaviour and learning.
+Neuroscience is the study of the structure and function of the nervous system and brain and their relation to behavior and learning.
 
 Neuroscience is the study of the brain including the biological basis behind our thoughts, feelings, and actions. <font color="blue">这好是CBT的3要素</font>
 
 ## Chunking is a habit
 
-Chunking is “the process of grouping behaviors together into a single routine.” For instance, how much thought do you give each day to all the steps in brushing your teeth? Chances are the various tasks associated with brushing teeth comes naturally. In other words, chunking is a form of automatic thought and a type of habit.
+Chunking is “the process of grouping behaviors together into a single routine.” 
+
+Chances are the various tasks associated with brushing teeth comes naturally. In other words, **chunking is a form of automatic thought and a type of habit.**
+
+Example
+
+* brush teeth
+* get dressed
+* driving
 
 ## Before sleep
 
-NIGHTTIME: Your brain prunes while you’re sleeping. It preserves information you’re actively using and tends to let go— slowly but surely— of the stuff you’re not. **If you want to retain something, make sure it doesn’t get pruned at night. Bring it to mind as part of your evening routine. Visualize it as you prepare for sleep. If other thoughts come up, replace them with the things you want to remember.** Try using your final moments of wakefulness to remember three things: your main goal for the next day, a longer- term plan you’re working on, and what you appreciated most about your day. These thoughts can override the usual nighttime brain chatter. They bring a sense of peace and purpose. And they may be waiting for you the next morning, priming you to focus on what matters and anticipate what you’ll appreciate most in the day ahead.
+NIGHTTIME: Your brain prunes while you’re sleeping. It preserves information you’re actively using and tends to let go— slowly but surely— of the stuff you’re not. **If you want to retain something, make sure it doesn’t get pruned at night. Bring it to mind as part of your evening routine. Visualize it as you prepare for sleep. If other thoughts come up, replace them with the things you want to remember.** Try using your final moments of wakefulness to remember three things: your main goal for the next day, a longer-term plan you’re working on, and what you appreciated most about your day. These thoughts can override the usual nighttime brain chatter. They bring a sense of peace and purpose. And they may be waiting for you the next morning, priming you to focus on what matters and anticipate what you’ll appreciate most in the day ahead.
 
 ## Single-photon emission computed tomography (SPECT)
 
-The more blood flow, the more gamma rays are picked up by the camera. Areas with the most blood flow show up as most colourful. Areas with the least blood flow have the least radiation and are darker in the scans.
+The more blood flow, the more gamma rays are picked up by the camera. Areas with the most blood flow show up as most colorful. Areas with the least blood flow have the least radiation and are darker in the scans.
 
 2 scans
 
@@ -268,24 +276,23 @@ each neuron has between 1,000 and 10,000 synapses
 * gut: 100 million neurons
 * over 100 neurotransmitter
 
-The whole brain is billions of neurons sending elecrrical signals that turn into chemical signals in order to communicate.
+The whole brain is billions of neurons sending electrical signals that turn into chemical signals in order to communicate.
 
 ## neuron + electrical pulse
 
 Each electrical pulse—and resulting squirt of neurotransmitter—is not an order commanding the next neuron’s actions; <font color="blue">it is more like a vote on what the next neuron should do.</font> The whole pattern of activity is like a presidential election. Everyone votes on who the president should be, and depending on those votes, the country veers off in one direction or another. If you can change the number of votes in a few key swing states by only a few percentage points, you can dramatically change the course of the country. The same is true of the brain. <font color="blue">By changing the firing rate of neurons in a few key regions, you can influence the pattern of activity in the entire brain.</font>
 
-Excerpt From: Alex Korb. “The Upward Spiral.” Apple Books.
 
 **Good news: small changes in complex systems like the brain can sometimes have big effects.**
 ## the asymmetries of the two hemispheres
 
-two complementary halves of a whole rather than as two individual entities or identities.
+Two complementary halves of a whole rather than as two individual entities or identities.
 
 two cerebral hemispheres that process information in uniquely different ways
 
 perceive the big picture, how everything is related
 
-if you are a Carl Jung fan, then there’s our sensing mind (left hemisphere) versus our intuitive mind (right hemisphere), and our judging mind (left hemisphere) versus our perceiving mind (right hemisphere).
+If you are a Carl Jung fan, then there’s our sensing mind (left hemisphere) versus our intuitive mind (right hemisphere), and our judging mind (left hemisphere) versus our perceiving mind (right hemisphere).
 
 Taylor, Jill Bolte. My Stroke of Insight (p. 134). Penguin Publishing Group. Kindle Edition.
 
@@ -304,7 +311,7 @@ From a neurological standpoint, every time a circuit of neurons is stimulated, i
 details
 language
 communicate
-breka the big picture perception of the present moment into manageable and comparable bits of data that they can talk about
+break the big picture perception of the present moment into manageable and comparable bits of data that they can talk about
 
 "brain chatter": via left hemisphere language centers, our mind speaks to us constantly
 
@@ -331,9 +338,9 @@ Nerve fiber is a thread like extension of a neuron, which is formed by the axon 
 
 Thus each nerve fiber is an axon with its coverings. Larger axons are covered by a myelin sheath and are termed myelinated or medullated fibers.
 
-Thinner axons, of less than one micron diameter, do not have the myelin sheath and are therefore termed non-myelinated or non-medullated.
+Thinner axons, of less than one micron diameter, do not have the myelin sheath and are therfibresefore termed non-myelinated or non-medullated.
 
-Hemispheres are connected by a large bundle of nerve fibres.
+Hemispheres are connected by a large bundle of nerve fibers.
 
 ### 记忆法
 
@@ -352,7 +359,7 @@ The Brodmann classification divides the cortex into approximately 52 areas, numb
 
 The list below states how areas relate to functional areas and/or gyral landmarks.
 
-* Brodmann areas 1, 2 & 3: primary somatosensory cortex (postcentral gyrus)
+* Brodmann areas 1, 2 & 3: primary somatosensory cortex (post-central gyrus)
 * Brodmann area 4: primary motor cortex (precentral gyrus)
 * Brodmann area 5: somatosensory association cortex (superior parietal lobule)
 * Brodmann area 6: premotor cortex and supplementary motor cortex
@@ -431,7 +438,13 @@ Animation | Front view|Lateral view|Medial perspective
     planning
     executive decisions
     rational thought
-    generate thoughts and inihibits distracting Thoughts
+    generate thoughts and inhibits distracting Thoughts
+    * control physical movement
+
+    	* walking
+    	* running
+    	* reaching
+    	* pushing
 
 
     emotion (e.g., fear, anxious) overrides plan, intelligent action
@@ -455,7 +468,7 @@ Animation | Front view|Lateral view|Medial perspective
 ![](/figs/neuroscience/medialhumanview.jpg)
 
 
-Vertical and horizontal axes divide it into 4 quadrans.
+Vertical and horizontal axes divide it into 4 quadrants.
 
 * top-middle
 * top-side
@@ -466,7 +479,7 @@ Vertical and horizontal axes divide it into 4 quadrans.
 * medial parts: more self-focused
 * lateral: more focused on the outside world
 * ventral parts: more emotional
-* dorsal parts: focuse more on thinking
+* dorsal parts: focus more on thinking
 
 Hence, the primary distinction in the prefrontal cortex is between dorsolateral and ventromedial, i.e., the top-side v.s. the bottom-middle
 
@@ -503,19 +516,19 @@ The whole prefrontal cortex is affected by depression.
 
 * planning
 * execution
-* rule-governed actionsmonitor actions for social appropriateness
+* rule-governed actions monitor actions for social appropriateness
 * less prone to emotional influences on the plans
 
 ### ventral (lower) part of the PFC (VmPFC)
 
-'warm' thinking, emotional memory and socially acceptable behaviours
+'warm' thinking, emotional memory and socially acceptable behaviors
 
 active
 
 * when we are emotionally involved with others.
 * when we take a moral or ethical perspective
 * good control over impulses
-* good control over social behaviours.
+* good control over social behaviors.
 
 ### orbitofrontal cortex (OFC)
 
@@ -526,17 +539,17 @@ function:
 * analyze the consequence
 * analyze risks
 * rewards associated with conscious (or goal-oriented) decisions and actions
-* integrate emotion in decision-making and bringing together the hot and cold streams of thinking, so we apply moral rules and appropriate behaviour in a rational way.
+* integrate emotion in decision-making and bringing together the hot and cold streams of thinking, so we apply moral rules and appropriate behavior in a rational way.
 
 Goal-directed action is active decision-making and action-taking meaning consciously making the decision to do something.
 
-One-off conscious decisions is from the prefrontal cortex. However, as ou practice a behavior more, the cannabinoid-based neural mechnism minimizes the amount of information flowing to the orbitofrontal context (OFC). When the flow of information to the OFC quiets down, habits take root.
+One-off conscious decisions is from the prefrontal cortex. However, as practice a behavior more, the cannabinoid-based neural mechanism minimizes the amount of information flowing to the orbitofrontal context (OFC). When the flow of information to the OFC quiets down, habits take root.
 
 endocannabioids: reduce the flow of information to the OFC area of the brain
 
-Optogenetics: a biological technique that involves the use of light to control cells in living tissue, typically neurons, that have been genetically modified to express light-sensitive ion channels.
+Optogenetics: a biological technique that involves the use of light to control cells in living tissue, typically neurons, tincrasehat have been genetically modified to express light-sensitive ion channels.
 
-Optogenetics can turn on neuronal output in the OFC area of the brain, it was possible to incrase goal-directed actions and by turning it off using the same approach, decrase activity in this area of the brain.
+Optogenetics can turn on neuronal output in the OFC area of the brain, it was possible to increase goal-directed actions and by turning it off using the same approach, decrease activity in this area of the brain.
 
 
 ## limbic system = reptilian brain = emotional part of the brain
@@ -552,7 +565,7 @@ composed of 4 regions
 3. hippocampus
 4. cingulate cortex
 
-### emtoions in the limbic system
+### emotions in the limbic system
 
 * excitement
 * fear
@@ -566,6 +579,9 @@ composed of 4 regions
   * the general desire or willingness of someone to do something: keep staff up to date and maintain interest and motivation.
 * **desire is emotion**: a strong feeling of wanting to have something or wishing for something to happen: [with infinitive] : a desire to work in the dirt with your bare hands.
 
+A 2008 study by the University of Michigan indicated that, while humans experience desire and fear as psychological opposites, they share the same brain circuit. A 2008 study entitled "The Neural Correlates of Desire" showed that the human brain categorizes stimuli according to its desirability by activating three different brain areas: the superior orbitofrontal cortex, the mid-cingulate cortex, and the anterior cingulate cortex.
+
+Changing stress levels can make brain flip from 'desire' to 'dread'"
 ### difference between stress and anxiety
 
 * **Stress** is caused by an existing stress-causing factor or stressor.
@@ -588,7 +604,7 @@ pain <br> bodily awareness|insula
 
 ### 3 types of feeling
 
-1. feelings of sadness, joy, anger, frustration, or excitement are generated by the cells of limibic system.
+1. feelings of sadness, joy, anger, frustration, or excitement are generated by the cells of limbic system.
 2. to feel something in your hands refers to the tactile or kinesthetic experience of feeling through the action of palpation. This type of feeling occurs via the sensory system of touch and involves the postcentral gyrus of the cerebral cortex.
 3. when someone contrasts what he or she feels intuitively about something (often expressed as a “gut feeling”) to what they think about it, this insightful awareness is a higher cognition that is grounded in the right hemisphere of the cerebral cortex.
 
@@ -618,7 +634,7 @@ pain <br> bodily awareness|insula
         2. pituitary releases the adrenocorticotropic hormone (ACTH) into the vascular system
         3. ACTH stimulates the synthesis of cortisol and other glucocorticoids, mineralocorticoids, and dehydroepiandrosterone.
 
-        Cortisol is produced in the human body by the **adrenal gland** in the zona fasciculata,the second of three layers comprising the **adrenal cortex**. The cortex forms the outer "bark" of each adrenal gland, situated atop the kidneys.
+        Cortisol is produced in the human body by the **adrenal gland** in the zona fasciculate, the second of three layers comprising the **adrenal cortex**. The cortex forms the outer "bark" of each adrenal gland, situated atop the kidneys.
 
         **The release of cortisol is controlled by the hypothalamus**, a part of the brain.
 
@@ -636,10 +652,10 @@ pain <br> bodily awareness|insula
 
 **People with depression often have higher amygdala reactivity, so reducing that can help lower anxiety and relieve depression.**
 
-location: almond-shaped strcture deep in the brain
+location: almond-shaped structure deep in the brain
 function: manage fear
 process emotion and emotional memories, especially fear
-scan all incoming stimulation in this immediate momemnt and determine the level of safety
+scan all incoming stimulation in this immediate moment and determine the level of safety
 
 * when incoming stimulation is perceived as familiar, the amygdala is calm and the adjacently positioned hippocampus is capable of learning and memorizing new information.
 * when unfamiliar or perhaps threatening stimulation, amygdala raises the brain's level of anxiety and focuses the mind's attention on the immediate situation. Attention is shifted away from the hippocampus and focused toward self-preserving behavior about the present moment.
@@ -659,18 +675,18 @@ scan all incoming stimulation in this immediate momemnt and determine the level 
 ![](/figs/neuroscience/hippocampus5.jpg)
 ![](/figs/neuroscience/hippocampus6.gif)
 
-**People with depression often have trouble remembering happier times but have no problem recalling sad events. This memory bias is because of the hippocamus.**
+**People with depression often have trouble remembering happier times but have no problem recalling sad events. This memory bias is because of the hippocampus.**
 
 location: adjacent to the amygdala
 function:
 
 * turn short-term memory into long-term memories
 
-  * particulary save emotional memories
+  * particularly save emotional memories
   * **problematic in depression, because the new memories hippocampus forms will skew to the negative**
-* central to **context-dependent memory**: the fact that it's eaiser to remember things that relate closely to your current situation
+* central to **context-dependent memory**: the fact that it's easier to remember things that relate closely to your current situation
 
-  example: It's eaiser to recall memories from undergraduate days if you are vising your old college campus, because the context is the same
+  example: It's eaiser to recall memories from undergraduate days if you are visiting your old college campus, because the context is the same
 
   **Downside for depression: All those happy memories that are easy to recall when you are in a good mood suddenly evaporate. Meanwhile, all the tragedies in your life become too easy to remember.**
 
@@ -710,7 +726,7 @@ huge importance in depression: what you focus on, whether by automatic habit or 
 
   * **notice mistakes**
   * play a central role in the pain circuit
-  * **In depression, antieror cingulate activity helps explains why you so often focus on the negative.**
+  * **In depression, anterior cingulate activity helps explains why you so often focus on the negative.**
 
   boost serotine in the anterior cingulate: think of happy memories before sleep or write in a journal or reflect on it
 
@@ -736,13 +752,13 @@ huge importance in depression: what you focus on, whether by automatic habit or 
 ![](/figs/neuroscience/insula6.png)
 ![](/figs/neuroscience/insula7.png)
 
-* location: part of the cortex that folds inward a couple inches from ears, close to the amygda and hippocampus.
+* location: part of the cortex that folds inward a couple inches from ears, close to the amygdala and hippocampus.
 * function:
   * pain circuit
   * bodily awareness
     Increased insula activity makes you hyperaware of any problems in the body, even if they're small.
 
-Some people have brains that are more reactive to pain, and this puts them at risk for a downward spira.
+Some people have brains that are more reactive to pain, and this puts them at risk for a downward spiral.
 
 **People with depression are more likely to suffer from chronic pain and tend to worry more about getting sick. **
 
@@ -753,8 +769,8 @@ Some people have brains that are more reactive to pain, and this puts them at ri
 
 ## basal ganglia: a collection of nuclei on both sides of the thalamus
 
-location: at the bottom of the brain, ouside and above the limbic system
-function: seek pleasure and rewrad and controlling movement
+location: at the bottom of the brain, outside and above the limbic system
+function: seek pleasure and reward and controlling movement
 **hold old habit**
 control of voluntary motor movements
 procedural learning
@@ -771,9 +787,9 @@ components
 
   When we move a part of body in a new way and it feels good, this area is active
 
-  When we feel a sense of accomplishment for having tried something new, the association is recognised here.
+  When we feel a sense of accomplishment for having tried something new, the association is recognized here.
 
-  Repetition of actions and behaviours impacts on the striatum to create new habits. Hence a habit is when you’ve done something so many times that your body knows how to do it better than your mind.
+  Repetition of actions and behaviors impacts on the striatum to create new habits. Hence a habit is when you’ve done something so many times that your body knows how to do it better than your mind.
 
 ### striatum
 
@@ -822,9 +838,9 @@ depression accompanied by bad habits caused by disrupted activity in the striatu
   Example
 
   * eating too many sweets
-  * drug additction
+  * drug addiction
 
-* Dopamine is relased in the nucleus accumbens when we doing anything fun and exciting
+* Dopamine is released in the nucleus accumbens when we doing anything fun and exciting
 
   **In depression, reduced dopamine activity in the nucleus accumbens explains why nothing seems enjoyable**
 ### caudate
@@ -843,7 +859,7 @@ function: integration of all sensation from external world and from inside the b
 
 ## occipital region
 
-funciton: region
+function: region
 
 ## temporal lobe
 
@@ -863,7 +879,7 @@ function: vision
 alias: little brain
 function
 
-coopdinates movement
+coordinates movement
 posture
 balance
 
@@ -891,6 +907,10 @@ coordinating Signals
 ![](/figs/neuroscience/brainstem1.4pg)
 ![](/figs/neuroscience/brainstem1.5pg)
 ![](/figs/neuroscience/brainstem1.6pg)
+
+## midbrain
+
+lack: lose the ability to feel fear and disgust
 ## neurotransmitter
 Different regions often rely on different neurotransmitter
 
@@ -900,14 +920,14 @@ Different regions often rely on different neurotransmitter
   * normal levels help regulate bodies
   * long-term stress and mental health
   * Cortisol levels rise over time when we're chronically exposed to negative or threatening situations.
-  * healthey diet, exercise, rest, mindfulness practice
+  * healthy diet, exercise, rest, mindfulness practice
 
 * adrenaline/epinephrine
 
 brain part|neurotransmitter
 ---|---
 prefrontal cortex|serotonin & norepinephrine
-striatum|dopamin
+striatum|dopamine
 
 
 ### organization of a neurotransmitter system
@@ -926,7 +946,7 @@ Your brain relies on numerous neurotransmitter systems for different types of pr
 * the Delta “system” would be all the cities Delta connects to
 
 
-many neurotransmitter systems influnce -- and are influenced by -- depression. Each neurotransmitter contributes to a different depressive symptom. To make things more complicate, they all interact.
+many neurotransmitter systems influence -- and are influenced by -- depression. Each neurotransmitter contributes to a different depressive symptom. To make things more complicate, they all interact.
 
 Small life changes can change the activity of these neurotransmitter systems.
 
@@ -989,12 +1009,12 @@ Change any of these factors can increase serotonin activity.
 4. The serotonin that is made isn't broken down as quickly
 5. The serotonin squirted into the synapse just hangs out for a while - giving it a longer opportunity to bind to the next neuron - instead of being quickly sucked back into the neuron
 
-Most antidpressant medications work by **serotonin transporters**: blocking serotonin-sucking proteins
+Most antidepressant medications work by **serotonin transporters**: blocking serotonin-sucking proteins
 # neuroplasticity
 
 the process by which the brain changes itself in response to new thoughts, experiences and actions
 
-Elizabeth Gould and Fernado Notebohm demostrated that animals made new brain cells throughout life.
+Elizabeth Gould and Fernado Notebohm demonstrated that animals made new brain cells throughout life.
 
 Eriksson in 1998 showed that new neurons are produced in the hippocampus of the adult human brain.
 
@@ -1004,9 +1024,9 @@ Neuroplasticity comes in 3 forms
 
 1. the formation of new neurons
 2. the formation of new synapses
-3. the strengtheing of existing synapses
+3. the strengthening of existing synapses
 
-**Neuronplasticity is the basis of habits, learning and change.**
+**Neuroplasticity is the basis of habits, learning and change.**
 
 **Doing more than is necessary, an then pruning it back in the light of what you need is a good way to learn in many fields.**
 
@@ -1027,17 +1047,17 @@ synapses
 * strengthen
 * weaken
 
-## Competitive nueroplasticity
+## Competitive neuroplasticity
 
-If some neurons are not being used, they can be taken over and used for another pupose.
+If some neurons are not being used, they can be taken over and used for another purpose.
 
 ## Thoughts changes brain.
 
-reorganize enurons and synapses
+reorganize neurons and synapses
 
 Example
 
-(Pascual-Leone 1995) took people who had never played the piano and divided them into two groups. The first group mentally practised a musical sequence for two hours a day for five days. The second group physically played the passage for the same amount of time. Both groups had their brains mapped during the experiment. Both groups could play the sequence, and both had similar brain maps. Both groups played well by the third day. The mental practice had formed the same maps in the motor cortex as the physical practice.
+(Pascual-Leone 1995) took people who had never played the piano and divided them into two groups. The first group mentally practiced a musical sequence for two hours a day for five days. The second group physically played the passage for the same amount of time. Both groups had their brains mapped during the experiment. Both groups could play the sequence, and both had similar brain maps. Both groups played well by the third day. The mental practice had formed the same maps in the motor cortex as the physical practice.
 
 Münte, T. F., Altenmüller, E., & Jäncke, L. (2002). The musician’s brain as a model of neuroplasticity. Nature Reviews Neuroscience, 3 (6), 473–478.
 
@@ -1051,9 +1071,9 @@ exercise
 => produce dopamine
 => make life more enjoyable
 
-* Just 15 minites of biking is sufficient to increase activity in circuits responsible for emotional control and to raise levels of the neurotransmitter serotonin.
+* Just 15 minutes of biking is sufficient to increase activity in circuits responsible for emotional control and to raise levels of the neurotransmitter serotonin.
 
-  Fumoto, M., Oshima, T., et al. (2010). Ventral prefrontal cortex and serotonergic system activation during pedaling exercise induces neg- ative mood improvement and increased alpha band in EEG. Behavioural Brain Research, 213(1): 1–9.
+  Fumoto, M., Oshima, T., et al. (2010). Ventral prefrontal cortex and serotonergic system activation during pedaling exercise induces neg- ative mood improvement and increased alpha band in EEG. Behavioral Brain Research, 213(1): 1–9.
 
 ## Sunshine
 
@@ -1069,16 +1089,16 @@ sunshine
 
 talking to friends every day
 
-=> change hwo the emotional circuits in the brain intereacted with the planning circuits.
+=> change how the emotional circuits in the brain interacted with the planning circuits.
 
 ## Bad of machine learning
 
-Modern technology and social media work in this way. Search engines and social media analyse your searches and deliver based on what you liked in the past. The algorithms work by assuming you are the same as when you last used them. They can, if we let them, filter what we see in terms of where we have been, not where we want to go. The connections you make and the digital paths you travel are strengthened and served up to you again and again. The result is a digital filter bubble that you do not notice because you never see it from the outside. We tend to assume that a search engine will search for what we want, but they search for what they think we want based on what we have searched for in the past. The brain creates its own filter bubble unless we are careful, always doing and thinking what is familiar already.
+Modern technology and social media work in this way. Search engines and social media analyze your searches and deliver based on what you liked in the past. The algorithms work by assuming you are the same as when you last used them. They can, if we let them, filter what we see in terms of where we have been, not where we want to go. The connections you make and the digital paths you travel are strengthened and served up to you again and again. The result is a digital filter bubble that you do not notice because you never see it from the outside. We tend to assume that a search engine will search for what we want, but they search for what they think we want based on what we have searched for in the past. The brain creates its own filter bubble unless we are careful, always doing and thinking what is familiar already.
 
 
 ## voluntary attention
 
-regions invovled
+regions involved
 
 * frontal lobes
 * insula
@@ -1092,18 +1112,18 @@ Sawaguchi, T., & Goldman-Rakic, P. S. (1991). D1 dopamine receptors in prefronta
 Antal, A., Terney, D., Poreisz, C., & Paulus, W. (2007). Towards unravelling task‐related modulations of neuroplastic changes induced in the human motor cortex. European Journal of Neuroscience, 26 (9), 2687–2691.
 
 
-**Multitasking does not build any neuroplastic connections because there is no willed, sustaied attention.**
+**Multitasking does not build any neuroplastic connections because there is no willed, sustained attention.**
 
-## repetion including visualization in the brain
+## repetitinueropalsticon including visualization in the brain
 
 Repetition consolidates neural pathways and memory
 
 1. repeat
 2. focused attention
 
-to get nueropalstic changes
+to get neuroplastic changes
 
-One-off conscious decisions is from the prefrontal cortex. However, as ou practice a behavior more, the cannabinoid-based neural mechnism minimizes the amount of information flowing to the orbitofrontal context (OFC). When the flow of information to the OFC quiets down, habits take root.
+One-off conscious decisions is from the prefrontal cortex. However, as ou practice a behavior more, the cannabinoid-based neural mechanism minimizes the amount of information flowing to the orbitofrontal context (OFC). When the flow of information to the OFC quiets down, habits take root.
 
 
 ### No hard or fast rule about how many times you need to repeat or how long it will take.
@@ -1119,7 +1139,7 @@ Short periods of concentrated practice undoubtedly strengthen neural pathways. T
 
 ### Mental rehearsal
 
-Mental rehearsal does help (it activates the same motor networks as the real action) but is not enough. The reason for this is interesting. We learn from feedback only if we cannot predict it in advance. If you know what will happen, the brain does not learn. There is no feedback from the outside world in mental rehearsal; everything is created inside your head, so it has limited value. It is useful for reinforcing physical sporting skills giving a more fluid basic movement (e.g. a tennis backhand), but even then, with no outside feedback the perfectly executed backhand can still miss the real ball the opponent fires towards you. Do not rely on mental rehearsal.
+Mental rehearsal does help (it activates the same motor networks as the real action) but is not enough. The reason for this is interesting. We learn from feedback only if we cannot predict it in advance. If you know what will happen, the brain does not learn. There is no feedback from the outside world in mental rehearsal; everything is created inside your head, so it has limited value. It is useful for reinforcing physical sporting skills giving a more fluid basic movement (e.g., a tennis backhand), but even then, with no outside feedback the perfectly executed backhand can still miss the real ball the opponent fires towards you. Do not rely on mental rehearsal.
 
 ## substance that isn't neurotransmitter: BDNF: brain-derived neurotrophic factor
 
@@ -1127,7 +1147,7 @@ the growth of new neurons
 overall brain health`
 
 goal: current experience without emotion: mindfulness
-goal: meditation/open focus: move Beta -> Alpha -> Theta -> Delta
+goal: meditation/open focus: move Beta-> Alpha-> Theta-> Delta
 use limited attention/focus/will => focus on conscious. side effect: not focus on unconscious
 prune synaptic connections and nurture new ones.
 
@@ -1137,7 +1157,7 @@ basal ganglia: hold old habit
 dorsolateral striatum
 interneurons in the striatum: prevent the principal neurons from initiating another routine until that current one was finished. keep on with the same task
 
-When the activity is new, use cerebral cortex = intense concentration that is needed to learn a new task. The neurons in striata emitted a continuous string of signals. when form a habit, the neurons that fired these distrinctive signals occurred just at the beginning and then again at the end of the task.
+When the activity is new, use cerebral cortex = intense concentration that is needed to learn a new task. The neurons in striata emitted a continuous string of signals. When form a habit, the neurons that fired these distinctive signals occurred just at the beginning and then again at the end of the task.
 
 The more we do, the less activity that arrived in the cerebral cortex, a decrease in how much brain activity occurred in the areas that governed memory, the brain will move the activity over to the basal ganglia, the dorsolateral striatum becomes stronger and take over the work that the dosomedial striatum.
 
@@ -1150,9 +1170,9 @@ Two loop were actually show up at the same time during the process
 
   <https://www.ncbi.nlm.nih.gov/pubmed/27238866>
 
-  The circuits in the brain for goal-directed action and habitual action are going to compete for control. <font color="blue">This competition is oging to happen in the decision-making parts of the brain????  prefrontal cortex???</font>
+  The circuits in the brain for goal-directed action and habitual action are ??going to compete for control. <font color="blue">This competition is going to happen in the decision-making parts of the brain????  prefrontal cortex???</font>
 
-  endocannabioids ends the competion with habits taking over and stop the goal-directed circuit. When the circuit is turned off, it becomes easier to form a habit?????
+  Endocannabioids ends the completion with habits taking over and stop the goal-directed circuit. When the circuit is turned off, it becomes easier to form a habit?????
 
 
 orbitofrontal cortex (OFC): goal-directed
@@ -1173,16 +1193,16 @@ reduce actions in OFC, more rely on habits instead of goal.
 3. isolate the cue
   * location
   * time of day
-  * an emtoional state
+  * an emotional state
 
     more aware of current emotional state
   * the action done right before craving: preceding events
   * other people
 4. come up with a plan of action
-5. reptition for the same tasks
+5. repetition for the same tasks
 
 
-why develp bad habits
+why develop bad habits
 
 1. because nothing else to take up time
 2. relieve stress
@@ -1214,7 +1234,7 @@ electroencephalograph (EEG)
     * connect internal world
     * imagination
     * few critical and rational thinking
-    * accept what adults tell them => go to subconsciuos mind
+    * accept what adults tell them => go to subconscious mind
 
   * 4-8 cycles per seconds
   * the realm of the subconscious. the conscious mind is awake, while the body is somewhat asleep
@@ -1225,7 +1245,7 @@ electroencephalograph (EEG)
     * start to interpret and draw conclusions about the laws of external life
     * the inner world of imagination tends to be as real as the outer world of reality
   * 8-13 cycles per seconds
-  *  close eyes => les information from environment is entering nervous system. => Alpha state => relax, meditative state
+  *  close eyes => less information from environment is entering nervous system. => Alpha state => relax, meditative state
 * Beta waves: higher frequencies seen during conscious thought and analytical thinking
 
   ![](/figs/neuroscience/the analytical mind.png)
@@ -1248,15 +1268,15 @@ electroencephalograph (EEG)
         * learning
 
     3. high-range Beta waves: 22-50 cycles per seconds
-      * stressful situations where survival checmicals are produced in the body
+      * stressful situations where survival chemicals are produced in the body
       * not type of focused attention we use to learn, create, dream, problem solve, or heal.
       * **too much** focused concentration
       * **a short-term survival mechanism, a long-term source of stress and imbalance**
-        * **increasesd electrical activity in the brain**
-        * maintianing high-range Beta waves requires an immense amount of energy
+        * **increased electrical activity in the brain**
+        * maintaining high-range Beta waves requires an immense amount of energy
         * most reactive, unstable, and volatile of all brain patterns
         * Everything becomes emergency.
-        * Tnought alone can turn on the stress response. loop
+        * Thought alone can turn on the stress response. loop
         * **Parts of the brain may stop coordinating effectively with other areas. The thinking part of brain become segregated.**
       * hard to focus on inner self
         * The outer world appears to be more real than the inner world.
@@ -1268,13 +1288,13 @@ electroencephalograph (EEG)
 
         Thinking in this mode causes your brain to overreact; you reason poorly and think without clarity.
 
-        大脑narrow-focus. 那么其他大部分内容就不能consciously, focus, 只能subsconscious用habit(past&familiar, known)来处理这些大部分内容.
+        大脑Narrow-focus. 那么其他大部分内容就不能Consciously, focus, 只能subconscious用habit(past&familiar, known)来处理这些大部分内容.
       * High Beta’s Incoherent Signals Produce Scattered Thoughts
 Dispenza, Joe. Breaking the Habit of Being Yourself (p. 195). Hay House. Kindle Edition.
 * Gamma waves: the highest frequencies recorded. elevated states of consciousness
 
   * 40-100 hertz
-  * elevated states of mind such as, hapiness, compassion, and increased awareness
+  * elevated states of mind such as, happiness, compassion, and increased awareness
   * peak experience
 
 
@@ -1288,7 +1308,7 @@ Dispenza, Joe. Breaking the Habit of Being Yourself (p. 195). Hay House. Kindle 
 
 ![](/figs/neuroscience/orbitofrontal cortex.gif)
 
-* the best times to meditate: Morning and Evening, whent the door to the subconscious opens
+* the best times to meditate: Morning and Evening, when the door to the subconscious opens
 
 * Your awareness shifts from narrow-minded, over-focused, obsessive, compartmentalized, survival thinking to thoughts that are more open, relaxed, holistic, present, orderly, creative, and simple.
 
@@ -1383,7 +1403,7 @@ Now, there is a powerful intelligence within you that is giving you life, which 
 
 ## Week Two
 
-**Recognizing**. Now, you cannot create a new future while holding on to the emotions of the past. What was the emotion that you wanted to unmemorize? Remember what that emotion feels like in your body…. And recognize the familiar state of mind that is driven by that emotion….
+**Recognizing**. Now, you cannot create a new future while holding on to the emotions of the past. What was the emotion that you wanted to unmemorized? Remember what that emotion feels like in your body…. And recognize the familiar state of mind that is driven by that emotion….
 
 **Admitting**. It’s time to turn to the power within you, introduce yourself to it, and tell it what you want to change about yourself. Begin to admit to it who you have been, and what you have been hiding. In your mind, talk to it. Remember that it is real. It already knows you. It doesn’t judge you. It only loves…. Say to it, “Universal consciousness within me and all around me, I have been ________, and I truly want to change from this limited state of being….”
 
@@ -1554,7 +1574,7 @@ meditation
 
 ## value
 
-I recommend writing a list of your top 10 values in no particular order. Then reorganise the list in order of importance to you, from most important to least important. Identify your top 3 from this ordered list of 10, and ask yourself: “Are these values bringing me where I want to be in my life?”. Then, ask “If I lived in an alternative universe, and I could only take these top 3 with me, would they definitely be the ones I would take (knowing I have to leave the other 7 behind)?”. If you are happy that they are the top 3 values that are most important to you, ask yourself: “Am I truly living to these top 3 values, in how I spend my time, and the decisions I make in life and work?” and then “Do I need to reorder these values and make decisions, prioritising certain values over others?”. This exercise might help you realise that you wish to reorder your values. It will then help you start prioritising what / who with / where you spend your time, and start making some decisions differently as to how you want to live and what
+I recommend writing a list of your top 10 values in no particular order. Then reorganize the list in order of importance to you, from most important to least important. Identify your top 3 from this ordered list of 10, and ask yourself: “Are these values bringing me where I want to be in my life?”. Then, ask “If I lived in an alternative universe, and I could only take these top 3 with me, would they definitely be the ones I would take (realise knowing I have to leave the other 7 behind)?”. If you are happy that they are the top 3 values that are most important to you, ask yourself: “Am I truly living to these top 3 values, in how I spend my time, and the decisions I make in life and work?” and then “Do I need to reorder these values and make decisions, prioritizing certain values over others?”. This exercise might help you realize that you wish to reorder your values. It will then help you start prioritizing what / who with / where you spend your time, and start making some decisions differently as to how you want to live and what
 
 # Sleep
 
@@ -1572,13 +1592,19 @@ I recommend writing a list of your top 10 values in no particular order. Then re
   Sleep is a restorative process that is brain state–regulated, reversible, homeostatic, embedded in both a circadian and social–physiologic organization and involving a species-specific quiescent posture, some amount of perceptual disengagement, and elevated arousal thresholds.
 
 * **Restorative process** indicates that one feels refreshed after high quality sleep. ​​
-* **Reversible** means that once we fall asleep we can easily return to wake if aroused sufficiently via noise, shaking, etc. There is no quick reversibility in other quiescent states like coma. ​​
+* **Reversible** means that once we fall asleep we can easily return to wake if aroused sufficiently via noise, shaking, etc., There is no quick reversibility in other quiescent states like coma. ​​
 * **Homeostatic** means that if we go without sleep we need to at least partially make up for that lost sleep. ​​
 * **Brain state–regulated** indicates that the brain is what triggers and maintains sleep and that different forms of sleep are associated with distinctive patterns of brain activation and deactivation; we will see in later chapters that the “social brain” is particularly important for sleep and vice versa. ​​
 * **Circadian and social-physiologic organization** refers to the fact that sleep occurs every 24 hours and is entrained to social cues in the environment such that interactions with conspecifics are optimized. ​​
 * **Quiescent posture** indicates that for most animals sleep is associated with a relatively motionless posture – most often recumbency (lying down).
 * **Perceptual disengagement** indicates that the sleeper exhibits reduced responsiveness to normal environmental stimuli. ​​
 * **Elevated threshold** means that it takes a sufficiently loud noise or hard shake to wake us up.
+
+## Lack of sleep
+
+When you are tired, cells have trouble absorbing glucose form the bloodstream. This leaves them underfuled, and you exhausted.
+
+The prefrontal cortex uses most energy and hence is affected most. Then striatum (routines and impulses) takes over to act.
 
 ## Religion
 
@@ -1601,7 +1627,7 @@ undergo a shift in consciousness-away from being an individual to feeling that w
 
     **Finding core values is to build a safety environment.**
 
-  * 2 modes of processing: fast unconscious judgments and decisions about the potentiaol threats and rewards, and slower conscious detailed rational, verbal processes that occasionally override and correctyour initial intuitive decisions
+  * 2 modes of processing: fast unconscious judgments and decisions about the potential threats and rewards, and slower conscious detailed rational, verbal processes that occasionally override and correct your initial intuitive decisions
 
     **Alignment of your nonconscious-conscious processing leads to enhanced functional effectiveness, in all aspects of life.**
 
@@ -1621,7 +1647,7 @@ undergo a shift in consciousness-away from being an individual to feeling that w
 
   * 4 key underlying processes
 
-    1. **emotions** (fast nonconscious automatic reponses to threat or rewards cues)
+    1. **emotions** (fast nonconscious automatic responses to threat or rewards cues)
     2. **feelings** (slower conscious physiological changes in heart rate, breathing and sweat production)
     3. **thinking** (conscious focusing, remembering, and planning)
     4. ongoing conscious **self-regulation** of all these functions.
@@ -1653,7 +1679,7 @@ Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developin
   * Nucleus: inside
   * Ganglia: outside
 * Tract:  A bundle of axons traveling together within the CNS
-* Synapse: A pont of connection/communication between neurons
+* Synapse: A point of connection/communication between neurons
 * Afferent: arriving information
 * Efferent: existing information
 * Peripheral Nervous System (PNS): Cranial and peripheral nerves
@@ -1661,8 +1687,9 @@ Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developin
 * Ganglia: a group of neurons outside the CNS with similar function, connectivity and neurotransmitters
   * Nucleus: inside
   * Ganglia: outside
-* Somatic Nervous System: Afferent and efferent systems that regulate motor innervation of skeletal musle and sensory information from the external environment
+* Somatic Nervous System: Afferent and efferent systems that regulate motor innervation of skeletal muscle and sensory information from the external environment
 * Autonomic Nervous System: Afferent and efferent systems that regulate motor innervation of smooth muscle and glands and sensory information from the internal environment
+* Chunking: the process of grouping behaviors together into a single routine 
 
 ## Test
 
@@ -1678,7 +1705,7 @@ Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developin
 
       Rapid nonconscious judgements drive slower more detailed conscious processing.
 
-    * 2 modes of processing: fast unconscious judgments and decisions about the potentiaol threats and rewards, and slower conscious detailed rational, verbal processes that occasionally override and correctyour initial intuitive decisions
+    * 2 modes of processing: fast unconscious judgments and decisions about the potential threats and rewards, and slower conscious detailed rational, verbal processes that occasionally override and correct your initial intuitive decisions
     * 4 key underlying processes
 
       1. **emotions** (fast nonconscious automatic reponses to threat or rewards cues)
@@ -1696,15 +1723,15 @@ Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developin
   * Identify the homeostatic nature of sleep.
   * Evaluate the key elements in the scientific definition of sleep
   * Evaluate the evidence for the social nature of sleep
-  * Distringuish biiologic characteristics of reptilian, avian, mammmalian, nonhuman primate sleep, and human sleep
+  * Distinguish biologic characteristics of reptilian, avian, mammalian, nonhuman primate sleep, and human sleep
 * What are the 2 basic forms of sleep?
   * REM and NREM
 * Why are there 2 basic forms of sleep?
 * Why is the amygdala activated and the dorsal-prefrontal cortex down-regulated during REM?
-* What is the eveidence for immune system repair during slow wave sleep?
+* What is the evidence for immune system repair during slow wave sleep?
 * What is sleep debt and how is it related to brain function?
 * What are the psychological consequences of chronic sleep debt?
-* What do the major parasomnias teach us about consciuos states?
+* What do the major parasomnias teach us about conscious states?
 
 dream
 
