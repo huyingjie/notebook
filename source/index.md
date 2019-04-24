@@ -8,6 +8,8 @@ description: Knowledge Oganization
 * Machine Learning
 * Statistical Learning
 * Mathematics
+* Epidemiology
+* Neuroscience
 * Programming
 	* R
 	* R packages

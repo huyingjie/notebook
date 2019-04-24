@@ -2,6 +2,12 @@
 title: Neuroscience
 ---
 
+Disease|Activity|Brain parts
+---|---|---
+Obsessive-compulsive disorder (OCD) | hyperactivity|orbital frontal cortex
+Obsessive-compulsive disorder (OCD)|hyperactivity|caudate nucleus/anterior striatum
+Obsessive-compulsive disorder (OCD)|hyperactivity|anterior cingulate gyrus
+
 # depression
 Depression is defined by a collection of symptoms. Researchers don't know specific cause.
 
@@ -202,25 +208,27 @@ Phillippa Laaly from Cancer Research UK Health Behavior Research Centre: average
 
 ## Abbreviations
 
-* ACC Anterior cingulate cortex
-* ADHD Attention deficit hyperactivity disorder
-* dlPFC Dorsolateral prefrontal cortex
-* DN Default network
-* EEG Electroencephalogram
-* fMRI Functional magnetic resonance imaging
-* GABA Gamma aminobutyric acid
-* HPA axis Hypothalamus–pituitary–adrenal axis
-* NA Nucleus accumbens
-* OCD Obsessive compulsive disorder
-* OFC Orbital frontal cortex:
-* PET Positron emission tomography
-* PFC Prefrontal cortex
-* LPFC Left prefrontal cortex
-* PNS Parasympathetic nervous system
-* SNS Sympathetic nervous system
-* SPECT Single-photon emission computed tomography
-* vmPFC Ventromedial prefrontal cortex
-* VTA Ventral tegmental area
+* ACC: Anterior cingulate cortex
+* ADHD: Attention deficit hyperactivity disorder
+* dlPFC: Dorsolateral prefrontal cortex
+* DN: Default network
+* EEG: Electroencephalogram
+* fMRI: Functional magnetic resonance imaging
+* GABA: Gamma aminobutyric acid
+* HPA: axis Hypothalamus–pituitary–adrenal axis
+* NA: Nucleus accumbens
+* OCD: Obsessive compulsive disorder
+* OFC: Orbital frontal cortex:
+* PET: Positron emission tomography
+* PFC: Prefrontal cortex
+* LPFC: Left prefrontal cortex
+* PNS: Parasympathetic nervous system
+* SNS: Sympathetic nervous system
+* SPECT: Single-photon emission computed tomography
+* vmPFC: Ventromedial prefrontal cortex
+* VTA: Ventral tegmental area
+* SPECT: single photon emission computed tomography
+* TBIs: traumatic brain injuries
 
 ## Brain Orientation
 Medial 1) Towards the middle 2) In the middle
@@ -239,7 +247,7 @@ Neuroscience is the study of the brain including the biological basis behind our
 
 ## Chunking is a habit
 
-Chunking is “the process of grouping behaviors together into a single routine.” 
+Chunking is “the process of grouping behaviors together into a single routine.”
 
 Chances are the various tasks associated with brushing teeth comes naturally. In other words, **chunking is a form of automatic thought and a type of habit.**
 
@@ -277,6 +285,16 @@ each neuron has between 1,000 and 10,000 synapses
 * over 100 neurotransmitter
 
 The whole brain is billions of neurons sending electrical signals that turn into chemical signals in order to communicate.
+
+## forebrain
+
+include
+
+* cerebrum
+* Hypothalamus
+* hypothalamus
+
+![](/figs/neuroscience/forebrain.jpg)
 
 ## neuron + electrical pulse
 
@@ -328,10 +346,32 @@ With language, for example, our left hemisphere understands the details making u
 
 From a neurological standpoint, every time a circuit of neurons is stimulated, it takes less external stimulation for that particular circuit to run. As a result of this type of reverberating circuitry, our left hemisphere creates what I call “loops of thought patterns” that it uses to rapidly interpret large volumes of incoming stimulation with minimal attention and calculation.
 
+## 4 lobes
+**lobes**: subcomponents of the brain
+
+* frontal
+  * reasoning
+  * expression
+  * body movements
+* parietal
+  * process sensoring information
+    * touch
+    * pressure
+    * pain
+* temporal
+  * interpretation of sounds and language through the pirmary auditory cortex
+  * process memories through the hippocampus
+* occipital
+  * visual
+
+
 ## Myelin
 
 A protein blend, collectively known as myelin, insulates the wiring between the neurons (Morell & Quarles, 1999). **Every time you repeat an action or a thought, the neuron fires faster, and the more easily it fires, the thicker and denser the myelin coating becomes.** This makes the pathways stronger, and the habit becomes more ingrained.
 
+![](/figs/neuroscience/myelin.png)
+
+**diffusion tensor imaging**: measure and map myelin inside living subjects
 ## Nerve Fiber
 
 Nerve fiber is a thread like extension of a neuron, which is formed by the axon and its covering.
@@ -341,6 +381,10 @@ Thus each nerve fiber is an axon with its coverings. Larger axons are covered by
 Thinner axons, of less than one micron diameter, do not have the myelin sheath and are therfibresefore termed non-myelinated or non-medullated.
 
 Hemispheres are connected by a large bundle of nerve fibers.
+
+Ishibashi T, Dakin KA, Stevens B, Lee PR, Kozlov SV, Stewart CL, Fields RD. (2006) Astrocytes promote myelination in response to electrical impulses. Neuron. 2006 Mar 16;49(6):823-32. PMID: 16543131
+
+* Supporter cells called obligodendrocytes and astrocytes sense the nerve firing and respond by wrapping more myelin on the fiber that fires. The more the nerve fires, the more myelin wraps around it. The more myelin wraps around it, the faster the signals travel, increaseing velocities up to 100 times over signals sent through an uninsulated fibers.
 
 ### 记忆法
 
@@ -590,7 +634,7 @@ Changing stress levels can make brain flip from 'desire' to 'dread'"
 function|brain part
 ---|---
 stress| hypothalamus
-anxiety, fear, other negative emotion| amygdala
+anxiety, fear, other negative **emotions**| amygdala
 create long-term memories, memory bias towards sad events|hippocampus
 control focus & attention|cingulate cortex
 notice mistakes <br> a gateway between limbic and prefrontal regions <br>  pain circuit| serotonin + anterior cingulate cortex
@@ -1689,7 +1733,7 @@ Kolb. B. and Gibb, R. (2011). ‘Brain Plasticity and Behaviour in the Developin
   * Ganglia: outside
 * Somatic Nervous System: Afferent and efferent systems that regulate motor innervation of skeletal muscle and sensory information from the external environment
 * Autonomic Nervous System: Afferent and efferent systems that regulate motor innervation of smooth muscle and glands and sensory information from the internal environment
-* Chunking: the process of grouping behaviors together into a single routine 
+* Chunking: the process of grouping behaviors together into a single routine
 
 ## Test
 

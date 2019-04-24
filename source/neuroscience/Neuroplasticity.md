@@ -20,6 +20,8 @@ title: Neuroplasticity
 
 mechanism of neuroplasticity: Once the neurotransmitters are diffused across the synaptic cleft,  they bind to the receptors and create another electrical signal on the post-synaptic neurons that will fire which causes the neurons to modify itself based on the strength of the existing synapse. The modification of the neurons is then called neuroplasticity
 
+**neuroplasticity**: the ability of the brain to change itself in response to the stimuli it encounters
+
 By definition, neuroplasticity
 
 1. is the change in the strength of the mature synaptic connections by the formation and elimination of synapses.
