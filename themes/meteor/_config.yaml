@@ -26,7 +26,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
-
+post_asset_folder: true
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -112,8 +112,8 @@ sidebar_categories:
   null:
     - index
   Neuroscience:
-    - neuroscience/depression
-    - neuroscience/Brain_Circuits
+    - Neuroscience/depression
+    - Neuroscience/Brain_Circuits
   Data Science:
     - datascience/00200_Transformation_and_Expectations
     - datascience/00300_Distributions
