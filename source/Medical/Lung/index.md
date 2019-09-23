@@ -26,3 +26,17 @@ Forced expiratory volume is the most important measurement of lung function. It 
 * Diagnose obstructive lung diseases such as asthma and chronic obstructive pulmonary disease (COPD). A person who has asthma or COPD has a lower FEV1 result than a healthy person.
 * See how well medicines used to improve breathing are working.
 * Check if lung disease is getting worse. Decreases in the FEV1 value may mean the lung disease is getting worse.
+
+
+## NSCLC
+
+non-small cell lung cancer
+
+### stage I
+
+Stage I NSCLC
+
+* the most curable stage of disease
+* treatment: resection
+
+	* outcome: recurrence
