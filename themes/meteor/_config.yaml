@@ -112,28 +112,28 @@ sidebar_categories:
   null:
     - index
   Neuroscience:
-    - Neuroscience/depression
+    - Neuroscience/Depression/index
     - Neuroscience/Brain_Circuits
   Data Science:
-    - datascience/00200_Transformation_and_Expectations
-    - datascience/00300_Distributions
-    - datascience/00400_Linear_Regression_with_One_Predictor
+    - datascience/00200_Transformation_and_Expectations/index
+    - datascience/00300_Distributions/index
+    - datascience/00400_Linear_Regression_with_One_Predictor/index
   Books:
     - books/Applied_Linear_Statistical_Models_5th_ed
   "R: Exploratory Analysis":
-    - R/00100_Clean_Data
-    - R/00200_Continuous_Variable
-    - R/00300_Categorical_Variables
+    - R/00100_Clean_Data/index
+    - R/00200_Continuous_Variable/index
+    - R/00300_Categorical_Variables/index
   "R: Models":
-    - R/00410_multinomial_logistic_regression
+    - R/00410_multinomial_logistic_regression/index
   Visualization:
-    - visualization/00010_Distribution
+    - visualization/00010_Distribution/index
   R Packages:
-    - R-packages/compareGroups
+    - R-packages/compareGroups/index
   Math:
     - math/logarithm
   Fields:
-    - fields/medical
+    - Stocks/缠论/index
   Technical:
     - formatting
     - setup
