@@ -569,7 +569,7 @@ The whole prefrontal cortex is affected by depression.
 * rule-governed actions monitor actions for social appropriateness
 * less prone to emotional influences on the plans
 
-### ventral (lower) part of the PFC (VmPFC)
+### ventral (lower) part of the PFC (vPFC)
 
 'warm' thinking, emotional memory and socially acceptable behaviors
 
@@ -580,12 +580,55 @@ active
 * good control over impulses
 * good control over social behaviors.
 
+
+#### ventromedial prefrontal cortex (VmPFC)
+
+![](index/ventromedial prefrontal cortex.png)
+
+* risk and fear
+* critical in the regulation of amygdala activity in humans
+* the inhibition of emotional responses
+* in the process of decision making and self control
+* involved in the cognitive evaluation of morality
+* supporting emotion regulation through the amygdala
+
+<font color="blue">从读wiki让我想到, 我小学时候, 内部emotional并没法很好控制. 到初中的时候就开始发展, 能自我courage. VmPFC更多的是抑制情绪. depression发展之前VmPFC就被破坏了吧</font>
+
+1. Decision making
+
+    Patients with bilateral lesions of the vmPFC develop severe impairments in personal and social decision-making[5][8] even though most of their intellectual ability is preserved.[8][9] For instance, they have difficulties in choosing between options with uncertain outcomes, whether the uncertainty is in the form of a risk or of an ambiguity.[10] After their lesion, these patients have an impaired capacity to learn from their mistakes, making the same decisions again and again even though they lead to negative consequences. These patients choose alternatives that give immediate rewards, but seem to be blind to the future consequences of their actions.[8] However, the underlying mechanisms of this behavior are not yet fully understood.[8]
+
+    Damage to the ventromedial prefrontal cortex (especially in the right hemisphere) has been connected with deficits in detecting irony, sarcasm, and deception.[11] Subjects with damage in this area have been found to be more easily influenced by misleading advertising.[12] This has been attributed to a disruption of a "false tagging mechanism" which provides doubt and skepticism of new beliefs.
+
+    People with damage to the ventromedial prefrontal cortex still retain the ability to consciously make moral judgments without error, but only in hypothetical situations presented to them. They are severely impaired in making personal and social decisions.[13] There is a gap in reasoning when applying the same moral principles to similar situations in their own lives. The result is that people make decisions that are inconsistent with their self professed moral values.[5] People with early damage to the ventromedial prefrontal cortex are more likely to endorse self-serving actions that break moral rules or cause harm to others. This is especially true for patients whose damage occurred the earliest in life.[14]
+
+    Emotions and an understanding of social norms are used to provide reasoning of the moral nature on our behaviors, beliefs, and the people around us. The vmPFC works as the neural basis in allowing emotion to influence moral judgement. In functional imaging studies, increased activity in the vmPFC is associated with thinking of these personal moral situations, while making harmless decisions does not.[15] Patients with vmPFC lesions made the same decision in impersonal and personal dilemmas. Dysfunction of the vmPFC causes failure in using correct moral emotion, which explains why these patients showed less emotional responses when facing these dilemmas.[16]
+
+2. Regulation of emotion
+
+    The vmPFC plays an important role in regulating and inhibiting our response to emotions. VmPFC seems to use our emotional reactions to model our behavior and control emotional reactions in certain social situations. The inputs of the vmPFC provide it with information from the environment and the plans of the frontal lobe, and its outputs allow the vmPFC to control different physiological responses and behaviors. The role of the vmPFC is especially highlighted in people with damage to this region. A damaged vmPFC causes impairments of behavioral control and decision making, consequences which are rooted in emotional dysregulation.
+
+    The amygdala plays a significant role in instigating the emotional reactions associated with anger and violence. With the vmPFC’s outputs to the amygdala, the vmPFC plays a part in preventing such behavior. Evidence has shown that impulsive murderers have decreased activity in the prefrontal cortex and increased activity in subcortical areas such as the amygdala. This imbalance can enhance actions that are created by negative emotions and limit the ability of the prefrontal cortex to control these emotions. Lower activation in the prefrontal cortex is also correlated with antisocial behavior. The dysfunction of the ventromedial cortex seems to, in part, be caused by lower levels of serotonin release.[17]
+
+    The vmPFC also is involved in courage. In experiments with participants allowing snakes to come near or away from them, acts of courage correlated with activation in the vmPFC, specifically the subgenual anterior cingulate cortex.[17][18]
+
+    Activation of the vmPFC is associated with successful suppression of emotional responses to a negative emotional signal.[19] Patients with vmPFC lesions show defects both in emotional response and emotion regulation.[9] Their emotional responsiveness is generally diminished and they show markedly reduced social emotions such as compassion, shame and guilt. These are emotions that are closely associated with moral values.[9] Patients also exhibit poorly regulated anger and frustration tolerance in certain circumstances.[9]
+
+    Patients with focal lesions in the vmPFC show personality changes such as lack of empathy, irresponsibility, and poor decision making. These traits are similar to psychopathic personality traits.[20] In addition, a correlation between individuals with a history of physical violence and decreased grey matter density in the vmPFC has been evidenced.
+
 ### orbitofrontal cortex (OFC)
 
-location: a prefrontal cortex region in the frontal lobes of the brain which is involved in the cognitive process of decision-making.
+![](orbitofrontal cortex.gif)
+
+orbit: [Anatomy] the cavity in the skull of a vertebrate that contains the eye; the eye socket
+
+location: 在orbit的后面的上面
+
+<font color="blue">有些么有确定性的研究结果. 好纠结</font>
 
 function:
 
+* decision-making
 * analyze the consequence
 * analyze risks
 * rewards associated with conscious (or goal-oriented) decisions and actions
@@ -599,8 +642,11 @@ endocannabioids: reduce the flow of information to the OFC area of the brain
 
 Optogenetics: a biological technique that involves the use of light to control cells in living tissue, typically neurons, tincrasehat have been genetically modified to express light-sensitive ion channels.
 
-Optogenetics can turn on neuronal output in the OFC area of the brain, it was possible to increase goal-directed actions and by turning it off using the same approach, decrease activity in this area of the brain.
+Optogenetics can turn on neuronal output in the OFC area of the brain. it was possible to increase goal-directed actions and by turning it off using the same approach, decrease activity in this area of the brain.
 
+![](index/optogenetics mouse.jpg)
+
+![](index/optogenetics1.png)
 
 ## limbic system = reptilian brain = emotional part of the brain
 
@@ -901,16 +947,10 @@ depression accompanied by bad habits caused by disrupted activity in the striatu
 ![](caudate3.jpg)
 ![](caudate4.jpg)
 
-
-
 ## parietal lobe
 
 location: behind frontal lobe
 function: integration of all sensation from external world and from inside the body
-
-## occipital region
-
-function: region
 
 ## temporal lobe
 
@@ -920,6 +960,7 @@ function:
 * hearing
 * learning
 * memory
+
 ## occipital lobe
 
 location: back
@@ -1357,7 +1398,6 @@ Dispenza, Joe. Breaking the Habit of Being Yourself (p. 195). Hay House. Kindle 
 
 ![](brain-waive function.png)
 
-![](orbitofrontal cortex.gif)
 
 * the best times to meditate: Morning and Evening, when the door to the subconscious opens
 

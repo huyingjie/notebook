@@ -1,9 +1,23 @@
 ---
 title: K线
-description: Candle Stick
+description: Candlestick
 ---
 
 股市是个理性的世界
+
+## components
+
+* open
+* close
+* high
+* low
+* upper shadow
+* lower shadow
+* real body
+
+![](candlestick1.png)
+
+![](candlestick2.png)
 
 ## 预埋单
 
@@ -146,8 +160,7 @@ k线组合能判断股票的优劣
 	 * 分批加仓
 	 * 若是高位出现,注意风险
 
-	 
-	![](红三兵.png)
+	 ![](红三兵.png)
 	
 	
 * 三连阴/三只乌鸦
@@ -159,7 +172,22 @@ k线组合能判断股票的优劣
 	形态修复: 修复到第一根阴线的开盘价 => 股票没问题
 	
 	![](三连阴.png)
+
+*  一阳吞一阴(Bullish engulfing lines) vs 一阴吞一阳(Bearish engulfing lines)
+
+	![](Engulfing Lines.png)
 	
+	![](bullish engulfing line.png)
+	
+	![](bearish engulfing line.png)
+	
+| |Bullish engulfing line|Bearish engulfing lines|
+|---|---|---|
+|发生地点|downtrend|uptrend|
+|形态|a tall, white real body that engulfs the previous session's smaller, black real body|a tall, black real body that engulfs the previous session's smaller, white real body
+|价格|open below the previous session's close and close above the previous session's open|open above the previous session's close and close above the previous session's open|
+
+		
 * 一阳吞三(两)阴
 
 	典型的反击和攻击组合
@@ -170,7 +198,7 @@ k线组合能判断股票的优劣
 	
 	若玩短线,就去买进.若做长期的,不适合买进. 短线是指2,3天
 	
-	![](一阳吞三(两)阴.png)
+	![](一阳吞三两阴.png)
 	
 * 两阳夹一阴
 
@@ -179,6 +207,7 @@ k线组合能判断股票的优劣
 	上涨趋势中股价有望新的突破,短线可跟进
 	
 	向下趋势中应继续观望
+	
 	![](两阳夹一阴.png)
 	
 * 断头铡刀: 一个大阴线连续击破几根阳线(均线)
@@ -196,9 +225,8 @@ k线组合能判断股票的优劣
 	
 	一般出现在下降趋势的末端, 是见底信号,后市看涨
 	
-	
-	
 	![](早晨之星.png)
+	
 * "黄昏之星": 见顶信号
 
 	若股价出现连续跨苏上涨,并有巨额交易出现时, 星线出现后有长期线=> 见顶信号
@@ -221,6 +249,8 @@ k线组合能判断股票的优劣
 
 	![](多个阴线连续出现.png)
 	
+	
+
 	
 ## 缺口: 非常重要,有主力入场
 
