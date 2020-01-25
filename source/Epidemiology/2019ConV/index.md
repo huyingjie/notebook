@@ -2,10 +2,26 @@
 * 严重急性呼吸综合症冠状病毒(SARS-CoV)
 * 中东呼吸综合症冠状病毒(MERS-CoV)
 
+确症的三个步骤
+
+1. 当地
+2. 专家会诊
+3. 国家确证
+
+整个流程走完需要3-5天. 把确症的标准控制在国家手里. 国家认可了才能接受免费的治疗, 不认可, 到死都是疑似患者, 医疗费自己承担. 
+
+确症了才能转到专门的医院. 所以, 大多数病人没法受到治疗, 在个大医院奔波成为病毒源
+
+恶性循环: 发热病人越多->需要确症的时间越长->病人在外传染的人的概率越多
+
+
+![](洗手技巧.jpeg)
 
 ![](政府措施.jpeg)
 
 ![](武汉野味.jpeg)
+
+## 上海
 
 上海逃跑的病人, 瑞金医院逃跑, 瑞虹新城抓住
 
@@ -27,17 +43,8 @@
 
 * 1月21日 35岁男性，1月8日晚前往武汉，1月11日返沪后出现发热、咳嗽、流涕等症状，1月16日在一发热门诊就诊后被收治入院隔离治疗。目前患者体温正常，生命体征平稳。其密切接触者正在接受医学观察。
 
-确症的三个步骤
 
-1. 当地
-2. 专家会诊
-3. 国家确证
-
-整个流程走完需要3-5天. 把确症的标准控制在国家手里. 国家认可了才能接受免费的治疗, 不认可, 到死都是疑似患者, 医疗费自己承担. 
-
-确症了才能转到专门的医院. 所以, 大多数病人没法受到治疗, 在个大医院奔波成为病毒源
-
-恶性循环: 发热病人越多->需要确症的时间越长->病人在外传染的人的概率越多
+# 全国
 
 * 2018/01/05 
 	* 武汉P4实验室成立, 研究最危险的病原体
@@ -90,7 +97,7 @@
 
 		![](2020.01.23 武汉封城.png)
 	* 中午一點鐘左右，S7武鄂高速武漢龔家嶺收費站也被實施交通管制，所有出城的車輛和個人都被禁止通行
-	* 中部战区空军在武汉上空开始播撒消毒粉液
+	* 谣言: 中部战区空军在武汉上空开始播撒消毒粉液
 		![](谣言 中部战区空军在武汉上空开始播撒消毒粉液.png)
 		
 	* 湖北省卫生健康委员会剥夺了武汉病情发布权
@@ -277,6 +284,8 @@
 		县
 		
 		1. 蕲春
+
+		![](估计被封人数.jpeg)
 	
 		湖北武汉：自2020年1月23日早上10时起，武汉市城市公交、地铁、轮渡、长途客运暂停运营；机场、火车站离汉通道暂时关闭。
 		
@@ -301,7 +310,6 @@
 		症状是不同的，有些病人不发烧，不咳嗽，不流鼻涕，而是浑身酸无力，无食欲。以为是其他原因，忽视了隔离，传给了家人，外人。
 		听说武汉医疗严重不足，一天只能检验200个病例。实际感染人数达9千。
 		```
-		
 	* 实际的数量远大于报的数量, 因为测试试剂不够
 
 		如今，各个医院的床位已经爆满了，救治能力到了极限。作为医院，我们的任务是诊断和收治疑似病人，确诊则是由武汉疾控部门负责。我们都知道新型冠状病毒的检测已经有试剂盒。这两天武汉卫生系统将检测的权限下放给了三甲医院，即试剂盒发到医院。有些医院是试剂盒不够用，有些医院则没有检验的条件。
@@ -443,7 +451,6 @@ pic.twitter.com/AR6RsvlgDd
 		
 		孟昕悲叹：“如此好牌还是被打得稀烂稀烂的，因为有政治第一的明确指示，有保密协议的严格要求，不可说不可说，要维稳。于是检测报告进了保险柜，只看到武汉方面连续一周发布的无新增病例，密接人员无人感染，无医务人员感染的消息，都以为是武汉措施得力，把疫情扼杀在摇篮里了，谁知道背后的真相是医护人员多人感染，人传人确凿无疑。”
 		
-		
 		帖文指，最后恐怕是实在压不住了，只好把钟南山（中国国家卫健委高级别专家组组长、中国工程院院士）请出来揭破部分事实，但“仍是犹抱琵琶半遮面，不肯承认有瞒报迟报漏报，不承认超级传播者，不承认英国的疾病模型是对的，不承认武汉医院床位不够”，直到武汉封城。
 		
 		孟昕还说，他们是1月2日拿到的标本，7日晚上分离病毒成功，8日凌晨拍的电镜，他当天看到电镜照片，整个科室欢欣鼓舞，这是前所未有的速度。但被上级搞得“一塌糊涂，一败涂地”。
@@ -460,7 +467,6 @@ pic.twitter.com/AR6RsvlgDd
 		
 		1月1日ECMO支持、抗感染、抗休克、纠正酸中毒等对症支持治疗。1月9日20时47分患者心率突然为0，ECMO血流速快速降至0.2升/分。立即抢救，至23时13分，心率仍为0，宣布临床死亡。
 		
-		
 		二、熊姓男，69岁，发烧、咳嗽4天，加重并伴有呼吸困难，2天后就诊于武汉市红十字会医院，2020年1月3日，经口气管插管接呼吸机辅助呼吸，心肌酶谱持续异常。1月4日转入金银潭医院。入院诊断为急性呼吸窘迫综合征、呼吸衰竭、重症肺炎、昏迷待查、胸腔积液、主动脉粥样硬化。
 		
 		患者胸部CT显示：双肺大片磨玻璃样影。心电图显示：ST段改变。入院后予重症监护、呼吸机辅助呼吸、俯卧位通气治疗，予CRRT、抗感染、护肝等对症及支持治疗，病情无好转，脓毒性休克、微循环衰竭、凝血功能障碍及内环境紊乱进行性加重。
@@ -470,8 +476,7 @@ pic.twitter.com/AR6RsvlgDd
 		三、王姓男，89岁，既往有高血压、脑梗塞、脑软化病史。因尿失禁于2020年1月5日就诊于同济医院泌尿外科，1月8日因嗜睡、神志不清转入急诊科就诊。检查提示肺部感染（病毒性肺炎）、急性呼吸衰竭。1月8日体检发现患者77mmHg，有缺氧表现。肺部CT呈双肺斑片影，双侧少量胸腔积液，胸膜粘连。血常规示白细胞总数进行性增高，淋巴细胞计数低。
 		
 		1月9日转入发热门诊观察病房抢救治疗。1月13日予呼吸机辅助正压通气。1月14日出现昏睡，在呼吸机辅助通气下，血氧饱和度波动在50%-85%之间。1月15日收入感染科病房。1月18日10时30分转院前Bp140/78mmHg，无创呼吸机辅助通气下SPO2 85%。转运途中，患者出现呼吸心跳骤停，持续抢救2小时，治疗无效于2020年1月18日13时37分宣告临床死亡。
-		
-		
+			
 		四、陈姓男，89岁，既往有高血压、糖尿病、冠心病、频发发室性早搏，冠脉支架植入术。患者于2020年1月13日发病，就诊4小时前无明显诱因喘气，自感呼吸困难，无发热。
 		
 		1月18日因严重呼吸困难至武汉协和医院急诊科救治。患者高龄，病原学检查肺炎衣原体阳性，无甲乙流，新型冠状病毒阳性，肺部CT：病毒性肺炎典型改变。于2020年1月19日23时39分病情恶化，抢救无效死亡。
@@ -480,8 +485,7 @@ pic.twitter.com/AR6RsvlgDd
 		
 		患者因间断咳嗽、头痛、乏力伴发热6天，于2020年1月16日收入武钢总医院。1月16日胸部CT显示双侧肺炎、左上肺纤维化灶、左上肺小结节影。1月17日出现呼吸困难，血气分析提示1型呼吸衰竭，给予面罩吸氧、抗感染、抗病毒、化痰等对症处理。
 		
-		1月20日10时10分，患者于突然出现指脉氧降低至40%，已予无创呼吸机辅助通气治疗，告知家属患者重度呼吸衰竭，询问是否进行气管插管，遭拒绝。1月20日10时35分病情恶化，抢救无效死亡。
-		
+		1月20日10时10分，患者于突然出现指脉氧降低至40%，已予无创呼吸机辅助通气治疗，告知家属患者重度呼吸衰竭，询问是否进行气管插管，遭拒绝。1月20日10时35分病情恶化，抢救无效死亡。	
 		
 		六、王姓男，75岁，发烧、咳嗽、咳痰5天、呕吐2天，于2020年1月11日17时19分收入武汉市第五医院。既往有高血压病和髋关节置换术史。入院体温38.2℃，伴乏力、纳差、咳嗽、鼻塞、头昏、头痛，无明显畏寒、寒颤、肌肉关节酸痛。胸部CT显示双肺间质感染。
 		
@@ -489,8 +493,7 @@ pic.twitter.com/AR6RsvlgDd
 		
 		七、殷姓女，48岁，既往有糖尿病，脑梗。2019年12月10日无诱因出现发热（38℃）、周身酸痛、乏力，逐渐出现咳嗽，少痰，在基层医院抗感染治疗2周未见好转。12月27日出现胸闷、气短，活动后明显，同济医院以无创通气、常规抗感染治疗，病情仍有加重。
 		
-		12月31日转入金银潭医院，给予鼻导管高流量吸氧等治疗措施，低氧状态仍未见明显好转，病情有恶化趋势。2020年1月14日胸部CT可见双肺弥漫机化性改变，部分伴牵拉性支气管扩张，其中以双下肺尤为明显。1月20日11时50分行气管插管，并予镇痛、镇静治疗，指端氧饱和度及血压持续下降，继而心率下降，最终抢救无效死亡。
-		
+		12月31日转入金银潭医院，给予鼻导管高流量吸氧等治疗措施，低氧状态仍未见明显好转，病情有恶化趋势。2020年1月14日胸部CT可见双肺弥漫机化性改变，部分伴牵拉性支气管扩张，其中以双下肺尤为明显。1月20日11时50分行气管插管，并予镇痛、镇静治疗，指端氧饱和度及血压持续下降，继而心率下降，最终抢救无效死亡。	
 		
 		八、刘姓男，82岁，全身畏寒、酸痛5天，于2020年1月14日15时41分收入武汉市第五医院。给予心电监护、无创呼吸机辅助呼吸、抗感染、抗病毒及支持对症治疗。1月19日出现吐字不清、左侧肢体乏力，考虑脑卒中，病情进展加重，呼吸衰竭持续加重。
 		
@@ -501,8 +504,7 @@ pic.twitter.com/AR6RsvlgDd
 		2020年1月2日转入金银潭医院，影像学双肺病变弥漫，呈“白肺样”改变。入院后给予经鼻高流量给氧等对症治疗，顽固性低氧血症难以纠正。1月12日10时进行气管插管呼吸机辅助呼吸，镇静状态，体温36.7℃，呼吸窘迫，继续抗菌治疗。当日患者氧合改善不明显，呼吸机吸入氧浓度已下调至50%左右，动脉血氧分压80mmHg。患者病程长，免疫功能极差，存在脓毒性休克风险，1月21日9时50分抢救无效死亡。
 		
 		十、张姓男，81岁，2020年1月18日因发热3天收入武汉市第一医院。入院胸部CT显示双肺感染性病变，考虑病毒性肺炎，患者肾功能及肺部感染情况持续恶化。1月22日上午逐渐出现意识不清，呼吸心率血压持续下降不能维持，患者家属拒绝胸外按压、气管切开等抢救措施，患者于1月22日10时56分呼吸心跳停止，宣告临床死亡。
-		
-		
+			
 		十一、张姓女，82岁，既往有帕金森病史5年，口服美多芭。2020年1月3日发病，因“发热咳嗽胸闷乏力”于1月6日就诊于湖北省中西医结合医院，诊断“病毒性肺炎、呼吸衰竭”。
 		
 		1月20日转入武汉市金银潭医院，病情进行性加重，于1月22日进行气管插管呼吸机支持治疗，呼吸衰竭无改善，于2020年1月22日18时经抢救无效宣告临床死亡。
@@ -511,8 +513,7 @@ pic.twitter.com/AR6RsvlgDd
 		
 		十三、胡姓女，80岁，2020年1月11日开始发热、咳嗽、喘息、呼吸困难，于2020年1月18日入住华润武钢总医院，因新型冠状病毒核酸阳性，于2020年1月20日转入武汉市金银潭医院。
 		
-		既往有高血压病史二十余年，有糖尿病史二十余年，有帕金森病史。入院后告病危，重症监护，行抗感染、呼吸机辅助呼吸及对症支持治疗。但患者病情无好转，持续低氧血症、神志不清，机械呼吸机辅助呼吸，2020年1月22日16时经抢救无效，宣告临床死亡。
-		
+		既往有高血压病史二十余年，有糖尿病史二十余年，有帕金森病史。入院后告病危，重症监护，行抗感染、呼吸机辅助呼吸及对症支持治疗。但患者病情无好转，持续低氧血症、神志不清，机械呼吸机辅助呼吸，2020年1月22日16时经抢救无效，宣告临床死亡。	
 		
 		十四、雷姓男，53岁。1月初因发烧一直在社区医院治疗，治疗数日后无效，发热、咳嗽、胸闷加重。2020年1月13日到同济医院急诊科就诊，CT显示双肺感染，呼吸衰竭。
 		
@@ -564,6 +565,7 @@ pic.twitter.com/AR6RsvlgDd
 		![](武汉第一医院.jpeg)
 		![](武汉市中心医院.jpeg)
 		![](湖南省儿童医疗中心.jpeg)
+		![](捐赠武汉绿色通道.jpeg)
 		
 	* 湖南省省长撒谎, 说物资充足
 		![](湖南省省长撒谎, 说物资充足1.jpeg)
@@ -585,5 +587,184 @@ pic.twitter.com/AR6RsvlgDd
 	* 3尸体躺在医院地上一个上午没人管. 病人和医护人员就在这样的环境下
 
 		<video width="320" height="240" controls>
-  <source src="3尸体躺在医院地上一个上午没人管.mp4" type="video/mp4">
-</video>
+    			<source src="index/3bodies.mp4" type="video/mp4">
+		</video>
+		
+	* 医务人员等死
+
+		![](医务人员等死.jpeg)
+	* 家属保留病人的证据
+
+		![](家属保留病人的证据.jpeg)
+	* 武汉江夏区第一人名议员发热门诊关闭
+
+		![](武汉江夏区第一人名议员发热门诊关闭.jpeg)
+		
+	* 湖北日报对张欧亚发的微博抱歉
+
+		![](湖北日报1.jpeg)
+		![](湖北日报2.jpeg)
+	* 有钱也没法治病
+
+		<video width="320" height="240" controls>
+    			<source src="index/有钱也没法治病.mp4" type="video/mp4">
+		</video>
+	* 武汉市市长周先旺撤职, 江汉正副书记与正副区长刑拘
+
+		![](武汉市市长周先旺撤职.jpeg)
+		
+* 2020/01/25
+	* 数据: ![](2020.01.25 数据.jpeg)
+	* 截至1月25日10时，
+
+		全国累计确诊新型肺炎个案突破1300宗至1303宗
+		
+		41人死亡(包括首位医生) 待确诊个案1965宗 
+		
+		澳洲确诊首宗个案
+		
+		尼泊尔确诊首宗个案
+		
+		越南、美国分别确诊首两宗个案
+		
+		法国、台湾分别确诊第三宗个案
+
+	* 美国国家健康研究所（US National Institutes of Health）所召集的专项疫苗研发团队在本周首度举行了团体会议。该团队的成员向外界表示，由于武汉肺炎的基因图谱已被公布，他们有望在3个月后就研发新型疫苗进入第一阶段的人体测试。
+	* 坦克进入武汉
+
+		<video width="320" height="240" controls>
+    			<source src="index/坦克进入武汉.mp4" type="video/mp4">
+		</video>
+	* Singapore biotech firm Veredus expects to have Wuhan virus test by Feb 1
+
+		HOMEGROWN biotech firm Veredus Laboratories on Friday announced it is developing a test for the Wuhan virus.
+
+		The VereCoV detection kit is expected to be commercially available by Feb 1 this year, said Singapore-based Veredus, which was previously indirectly owned by Temasek Holdings.
+		
+		The kit is a portable lab-on-chip application that will be able to detect the Wuhan coronavirus as well as the Sars and Mers viruses with "high specificity and sensitivity", Veredus noted. It is based on lab-on-chip technology which integrates two molecular biological applications, polymerase chain reaction and microarray.
+		
+		
+		Rosemary Tan, chief executive officer of Veredus, said this will be one of the first commercially available kits in the world with the capability to detect, differentiate and identify all three coronaviruses in a single test in about two hours.
+		
+		"Time-to-market is crucial as it addresses the need for a fast and easy-to-use detection method," she added.
+
+		The lab-on-chip application was also previously used by Veredus to create detection kits for the Mers, Zika, Dengue and H1N1 viruses.
+		
+		The company also previously made diagnostic tests that could detect avian flu H5N1, Sars and other respiratory diseases within two hours of testing.
+		
+		Veredus was started by Dr Tan in 2003, and is now owned by Japanese plastics giant Sekisui Chemical.
+		
+		Temasek's Accuron MedTech, a medical device maker and medtech investor, sold its 51 per cent stake in Veredus to Sekisui back in April 2018.
+		
+	* In just three months time, NIH likely will be testing the first of a number of potential experimental vaccines against the new SARS-like coronavirus that is spreading in China and beyond.
+	
+		“I told them, ‘you are going to have your baptism of fire, folks’,” Anthony Fauci, director of the U.S. National Institute of Allergy and Infectious Diseases within NIH, said of his inaugural address to the group this week.
+		
+		Three months from gene sequence to initial human testing would be the fastest the agency has ever gotten such a vaccine off the ground, Fauci said.
+	* 湖北不接受海外侨胞的捐助
+
+		![](湖北不接受海外侨胞的捐助.jpeg)
+	* 春节联欢晚会仍然开
+
+		![](春节联欢晚会仍然开1.jpeg)
+		
+		![](春节联欢晚会仍然开2.jpeg)
+	* 北京地坛医院460病床全部用完了
+	* 北京大兴医院全满
+	* 北京25日凌晨封城. 生化部队等入驻
+	* 武汉急症医务人员感染
+
+		![](武汉急症医务人员感染.jpeg)
+	* 北京时间1月24日凌晨2点，世界卫生组织（WHO）发布的最新声明中披露，中国已经向其报告了<font color="red">“武汉的第四代病例和武汉以外的第二代病例”</font>，但未进行进一步阐述。多个武汉医护人员告诉家人的视频爆料：医生估计大概有九万、十万人感染，千万不要相信政府，得靠自己。
+	* Lancent paper
+		- can cause infection w/o symptoms
+		- can sicken people with no preexisting conditions
+		- all had pneumonia, most had fever, some headache/diarrhea
+		- mild to severe sx 
+
+	* 第一位医生死亡 
+
+		Reuters: A DOCTOR AT A HOSPITAL IN CHINA'S HUBEI PROVINCE DIES FROM CORONAVIRUS -STATE MEDIA
+
+		BEIJING: A doctor at a hospital in China’s Hubei province, the centre of the coronavirus outbreak, has died from the virus, China Global Television Network reported in a tweet.
+
+		Liang Wudong, a doctor at Hubei Xinhua Hospital who had been at the front line of the coronavirus outbreak in Wuhan city, died from the virus aged 62, it said. - Reuters
+		
+		![](第一位医生死亡.jpeg)
+		
+	* 好人们
+
+		![](好人们1.jpeg)
+		![](好人们2.jpeg)
+		![](好人们3.jpeg)
+		![](好人们4.jpeg)
+		![](好人们5.jpeg)
+	* 医护人员免费住宿
+
+		![](医护人员免费住宿1.jpeg)
+		![](医护人员免费住宿2.jpeg)
+		![](医护人员免费住宿3.jpeg)
+		![](医护人员免费住宿4.jpeg)
+		![](医护人员免费住宿5.jpeg)
+		
+	* 封城地图
+
+		![](封城地图.jpeg)
+	* 武汉捐赠的请注意：据说第三方捐赠直接到医院行不通。海外捐赠也需要走一定的渠道。捐赠时请仔细辨别
+	* (来自华中科技大学夏增明老师的朋友圈，已询问可以转发)
+	【通知】经过我们多方核查后，目前武汉官方受捐
+	
+		单位，暂不接受境外物资的主要原因是：必须是三证合一的医疗物品，才能配备给一线的医护人员。而境外商品，虽达到欧洲标准，但暂未获取中国境内三证。
+		在我们与武汉慈善总会沟通后，他们推荐了湖北省青少年发展基金会作为境外物资接收方，在收到物资后，会用于街道，社区的工作人员和居民。
+		
+		地址：湖北省武汉市江汉区天门墩91号（团市委208办公室） 具体联系人电话 有捐赠需求的同胞联系Marketing@51parcel.com 获取
+	
+		英超物流，也会及时更新物资筹措进度和去向，欢迎大家监督。有任何问题，都可以发邮件进行咨询
+		
+		感谢大家的支持与爱心！
+		
+	* 重庆接受武汉人
+
+		![](重庆接受武汉人1.jpeg)
+		![](重庆接受武汉人2.jpeg)
+		![](重庆接受武汉人3.jpeg)
+		![](重庆接受武汉人4.jpeg)
+		![](重庆接受武汉人5.jpeg)
+		![](重庆接受武汉人6.jpeg)
+		![](重庆接受武汉人7.jpeg)
+		
+	* 已知道的捐款. 但武汉缺的是物资不是钱
+
+		![](已知道的捐款.jpeg)
+		
+	* 一级公共卫生事件
+
+		1. 广东
+		2. 湖南
+		3. 浙江
+		4. 天津
+		5. 安徽
+		6. 北京
+		7. 上海
+		8. 重庆
+		
+
+	* 武汉小汤山重新选址
+
+		![](武汉小汤山重新选址.jpeg)
+		
+	* 威海
+
+		![](威海.jpeg)
+		
+	* 武汉11日发57万人次
+
+		![](武汉11日发57万人次.jpeg)
+	* 终于开通海外捐赠了
+
+		![](终于开通海外捐赠了)
+	* 最小生病者2岁
+	* 上海传惊人病死数据 
+装甲车现身上海闹市街头
+市区开始进行局部区域封锁
+上海封城前奏？
