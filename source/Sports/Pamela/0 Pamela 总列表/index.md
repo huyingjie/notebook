@@ -119,3 +119,5 @@ description:
 ![](10min手臂+核心.png)|10min手臂+核心|<https://www.bilibili.com/video/BV1A441167xb>
 
 ![](30min腹部+臀部.png)|30min腹部+臀部| <https://www.bilibili.com/video/BV1TT4y1V76p>
+
+![](10min上肢+腹部.png)|10min上肢+腹部|<https://www.bilibili.com/video/bv1FD4y1o7fS/> 非官方

@@ -471,3 +471,34 @@ description:
 		* 10min 有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
 	* 10min舒缓训练 <https://www.bilibili.com/video/BV1hK4y1t7T4>
 * Day 7 休息日!
+
+## 45分钟慢速 第28周
+
+![](45分钟 慢速 28周.png)
+
+* Day 1 暴汗瀑布
+	* 10min腿+臀 高强|<https://www.bilibili.com/video/BV1pV411o7iy>非官方
+	* 10min卡路里杀手| <https://www.bilibili.com/video/BV1v5411a7c1>
+	* 10min腹部+瑜伽|<https://www.bilibili.com/video/BV1fT4y1j7f2>
+* Day 2 上肢
+	* 10min全身激活 |<https://www.bilibili.com/video/BV1RK411p7Xe>
+	* 10min上肢+腹部|<https://www.bilibili.com/video/bv1FD4y1o7fS/>
+	* 10min紧实手臂(水瓶)|<https://www.bilibili.com/video/BV1XV41127CW>
+	* 5min每日拉伸|<https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 3 臀部4连
+	* 4min歌曲热身Funny|<https://www.bilibili.com/video/BV16f4y1Q7bC>
+	* 10min臀部激活|<https://www.bilibili.com/video/BV1dc411h7Qz>非官方
+	* 10min臀部中级|<https://www.bilibili.com/video/BV1rA411e7Yx>
+	* 12min臀部upup|<https://www.bilibili.com/video/BV1Ck4y127oC>
+* Day 4 休息日!
+* Day 5 放轻松
+	* 5min歌曲热身Leap of Faith|<https://www.bilibili.com/video/BV1Ez4y1D7qh>
+	* 15min腹部|<https://www.bilibili.com/video/BV1pz411q7P3>
+	* 15min全身初级| <https://www.bilibili.com/video/BV1pZ4y1p7rN> 非官方
+	* 15min每日拉伸 |<https://www.bilibili.com/video/BV1Xi4y147LK>非官方
+* Day 6 腹部+有氧
+	* 4min歌曲热身Funny|<https://www.bilibili.com/video/BV16f4y1Q7bC>
+	* 10min臀部|<https://www.bilibili.com/video/BV1Fk4y1z73J>
+	* 30min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1Yt4y117Cn>
+	* 10min有氧(无跳跃)|<https://www.bilibili.com/video/BV1Qg4y1q7zP>
+* Day 7 休息日!
