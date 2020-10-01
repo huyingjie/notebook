@@ -11,14 +11,15 @@ description:
 ![](4min歌曲热身LaLaLife.png)|4min歌曲热身LaLaLife|<https://www.bilibili.com/video/BV1kf4y117cW>
 ![](10min趣味热身.png)|10min趣味热身| <https://www.bilibili.com/video/BV1RK411p7Xe>
 ![](3min歌曲热身lonely.png)|3min歌曲热身lonely|<https://www.bilibili.com/video/BV1nC4y1p7GY>
-![](10min清晨唤醒.png)|10min清晨唤醒 |![](10min全身.png)|10min全身|<https://www.bilibili.com/video/BV1Gt411J71Y> 非官方
+![](10min清晨唤醒.png)|10min清晨唤醒 |<https://www.bilibili.com/video/BV1Gt411J71Y>
+![](10min全身.png)|10min全身|<https://www.bilibili.com/video/BV1Gt411J71Y> 非官方
 ![](3min歌曲热身South Of Border.png)|3min歌曲热身South Of Border|<https://www.bilibili.com/video/BV1sK4y1k7PH>
 
 ## 拉伸
 图片|名称|链接
 ---|---|---
 ![](5min每日拉伸.png)|5min每日拉伸|<https://www.bilibili.com/video/BV1Zz4y1o7Vx>
-![](全身每日拉伸.png)|全身每日拉伸|
+![](全身每日拉伸.png)|30min全身每日拉伸|
 |30min全身拉伸 |<https://www.bilibili.com/video/BV1di4y1s7u1>
 ![](15min每日拉伸.png)|15min每日拉伸 |<https://www.bilibili.com/video/BV1Xi4y147LK>非官方
 ![](10min舒缓训练.png)|10min舒缓训练|<https://www.bilibili.com/video/BV1hK4y1t7T4>非官方
@@ -28,7 +29,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](10min全身激活.png)|10min全身激活 |<https://www.bilibili.com/video/BV1RK411p7Xe>
-![](15min全身初级.png)|15min全身初级| <https://www.bilibili.com/video/BV1pZ4y1p7rN> 非官方
+![](15min全身初级.png)|15min全身初级| <https://www.bilibili.com/video/BV1pZ4y1p7rN> https://www.bilibili.com/video/BV11T4y1c78p
 ![](20min全身初级.png)|20min全身初级|<https://www.bilibili.com/video/BV114411m7Fi>非官方
 ![](20min全身高强.png)|20min全身高强|<https://www.bilibili.com/video/BV1PE411F7Jn> 非官方
 ![](15min全身增强.png)|15min全身增强|<https://www.bilibili.com/video/BV1L54y1Q7Qt> 非官方
@@ -77,6 +78,7 @@ description:
 ![](15min臀部膝盖友好.png)|15min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1D5411t7sr>非官方
 ![](30min臀部膝盖友好.png)|30min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1Yt4y117Cn>
 ![](12min臀部upup.png)|12min臀部upup|<https://www.bilibili.com/video/BV1Ck4y127oC>
+![](10min臀部膝盖友好.png)|10min臀部膝盖友好|<https://www.bilibili.com/video/bv1oK4y1a7rk/> 非官方
 ![](10min臀部.png)|10min臀部|<https://www.bilibili.com/video/BV1Fk4y1z73J>
 ![](10min臀部中级.png)|10min臀部中级|<https://www.bilibili.com/video/BV1rA411e7Yx>
 ![](10min臀部激活.png)|10min臀部激活|<https://www.bilibili.com/video/BV1dc411h7Qz>非官方
@@ -104,7 +106,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](45min臀部+腹部.png)|45min臀部+腹部|<https://www.bilibili.com/video/BV1Fz4y1Z77f>
-![](20min平坦腹部&腿部.png)|20min平坦腹部&腿部|<https://www.bilibili.com/video/BV1eK4y1t7jn>
+![](20min平坦腹部&臀部.png)|20min平坦腹部&臀部|<https://www.bilibili.com/video/BV1eK4y1t7jn>
 
 
 ## 背部
@@ -114,10 +116,10 @@ description:
 
 ## Mix
 
-![](10min腿+臀 高强.png)|10min腿+臀 高强|<https://www.bilibili.com/video/BV1pV411o7iy>非官方
+![](20min腿+臀 高强.png)|20min腿+臀 高强|<https://www.bilibili.com/video/BV1pV411o7iy>非官方
 
 ![](10min手臂+核心.png)|10min手臂+核心|<https://www.bilibili.com/video/BV1A441167xb>
 
 ![](30min腹部+臀部.png)|30min腹部+臀部| <https://www.bilibili.com/video/BV1TT4y1V76p>
 
-![](10min上肢+腹部.png)|10min上肢+腹部|<https://www.bilibili.com/video/bv1FD4y1o7fS/> 非官方
+![](10min上肢+腹部.png)|10min上肢+腹部|<https://www.bilibili.com/video/BV1L541187NS>

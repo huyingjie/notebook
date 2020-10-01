@@ -37,7 +37,7 @@ description:
 		* 10min趣味虐腹(穿袜) <https://www.bilibili.com/video/BV1de411p7TE>
 	* 10min上肢1 <https://www.bilibili.com/video/BV1vK411K7ze>
 	* 10min紧实手臂(水瓶) <https://www.bilibili.com/video/BV1XV41127CW> 非官方
-	* 10min手臂+核心 <https://www.bilibili.com/video/BV1A441167xb
+	* 10min手臂+核心 <https://www.bilibili.com/video/BV1A441167xb>
 * Day 7 休息日!
 
 
@@ -96,7 +96,7 @@ description:
 * Day 3 腹部+上肢
 	* 8min腹肌 <https://www.bilibili.com/video/BV1Xt4y197kb>
 	* 10min上肢1 <https://www.bilibili.com/video/BV1vK411K7ze>
-	* 10min手臂+核心 <https://www.bilibili.com/video/BV1A441167xb
+	* 10min手臂+核心 <https://www.bilibili.com/video/BV1A441167xb>
 	* 12min腹部进阶 <https://www.bilibili.com/video/BV1F5411W7bU>非官方
 
 * Day 4 休息日!
@@ -269,7 +269,7 @@ description:
 * Day 2 全身+腹部
 	* 10min趣味热身 <https://www.bilibili.com/video/BV1RK411p7Xe>
 	* 10min腹部 <https://www.bilibili.com/video/BV1xp4y1X7f3>非官方
-	* 15min全身初级 <https://www.bilibili.com/video/BV1pZ4y1p7rN> 非官方
+	* 15min全身初级 <https://www.bilibili.com/video/BV11T4y1c78p>
 	* 10min舒缓训练 <https://www.bilibili.com/video/BV1hK4y1t7T4>非官方
 * Day 3 腹部+燃脂
 	* 3min歌曲热身lonely <https://www.bilibili.com/video/BV1nC4y1p7GY>
@@ -477,12 +477,12 @@ description:
 ![](45分钟 慢速 28周.png)
 
 * Day 1 暴汗瀑布
-	* 10min腿+臀 高强 <https://www.bilibili.com/video/BV1pV411o7iy>非官方
+	* 20min平坦腹部&臀部|<https://www.bilibili.com/video/BV1eK4y1t7jn>
 	* 10min卡路里杀手 <https://www.bilibili.com/video/BV1v5411a7c1>
 	* 10min腹部+瑜伽 <https://www.bilibili.com/video/BV1fT4y1j7f2>
 * Day 2 上肢
 	* 10min全身激活  <https://www.bilibili.com/video/BV1RK411p7Xe>
-	* 10min上肢+腹部 <https://www.bilibili.com/video/bv1FD4y1o7fS/>
+	* 10min上肢+腹部 <https://www.bilibili.com/video/BV1L541187NS>
 	* 10min紧实手臂(水瓶) <https://www.bilibili.com/video/BV1XV41127CW>
 	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
 * Day 3 臀部4连
@@ -494,11 +494,45 @@ description:
 * Day 5 放轻松
 	* 5min歌曲热身Leap of Faith <https://www.bilibili.com/video/BV1Ez4y1D7qh>
 	* 15min腹部 <https://www.bilibili.com/video/BV1pz411q7P3>
-	* 15min全身初级 <https://www.bilibili.com/video/BV1pZ4y1p7rN> 非官方
+	* 15min全身初级 <https://www.bilibili.com/video/BV11T4y1c78p>
 	* 15min每日拉伸  <https://www.bilibili.com/video/BV1Xi4y147LK>非官方
 * Day 6 腹部+有氧
 	* 4min歌曲热身Funny <https://www.bilibili.com/video/BV16f4y1Q7bC>
 	* 10min臀部 <https://www.bilibili.com/video/BV1Fk4y1z73J>
 	* 30min臀部(膝盖友好) <https://www.bilibili.com/video/BV1Yt4y117Cn>
 	* 10min有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
+* Day 7 休息日!
+
+## 45分钟慢速 第29周
+
+![](45分钟 慢速 29周.png)
+
+* Day 1 暴汗腹部
+	* 15min腹肌 <https://www.bilibili.com/video/BV1cg4y1q7Gm>
+	* 10min清晨唤醒 <https://www.bilibili.com/video/BV1Gt411J71Y>
+	* 10min有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
+	* 10min腰部赘肉 <https://www.bilibili.com/video/BV1A441167nP> 非官方
+* Day 2 臀部+大腿
+	* 10min臀部膝盖友好 <https://www.bilibili.com/video/bv1oK4y1a7rk/> 非官方
+	* 15min大腿内外侧 <https://www.bilibili.com/video/BV1CA411q7nH>非官方
+	* 12min臀部upup <https://www.bilibili.com/video/BV1Ck4y127oC>
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 3 上肢+拉伸
+	* 5min歌曲热身Leap of Faith|<https://www.bilibili.com/video/BV1Ez4y1D7qh>
+	* 10min上肢+腹部 <https://www.bilibili.com/video/bv1FD4y1o7fS/> 非官方
+	* 10min上肢2 <https://www.bilibili.com/video/BV1KT4y1j7Cd>
+	* 15min每日拉伸  <https://www.bilibili.com/video/BV1Xi4y147LK>非官方
+* Day 4 休息日!
+* Day 5 轻松臀+腹
+	* 10min臀部膝盖友好 <https://www.bilibili.com/video/bv1oK4y1a7rk/> 非官方
+	* 15min全身初级 <https://www.bilibili.com/video/BV11T4y1c78p>
+	* 10min紧实腰侧 <https://www.bilibili.com/video/BV1RV411r7DS>
+	* 10min紧实腰侧 <https://www.bilibili.com/video/BV1RV411r7DS>
+* Day 6 全身暴汗
+	* 10min全身激活 <https://www.bilibili.com/video/BV1RK411p7Xe>
+	* 20min全身高强 <https://www.bilibili.com/video/BV1PE411F7Jn> 非官方
+	* 二选一
+		* 10min卡路里杀手 <https://www.bilibili.com/video/BV1v5411a7c1>
+		* 10min趣味虐腹(穿袜) <https://www.bilibili.com/video/BV1de411p7TE>
+		* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
 * Day 7 休息日!
