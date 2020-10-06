@@ -29,11 +29,12 @@ description:
 图片|名称|链接
 ---|---|---
 ![](10min全身激活.png)|10min全身激活 |<https://www.bilibili.com/video/BV1RK411p7Xe>
-![](15min全身初级.png)|15min全身初级| <https://www.bilibili.com/video/BV1pZ4y1p7rN> https://www.bilibili.com/video/BV11T4y1c78p
+![](15min全身初级.png)|15min全身初级| <https://www.bilibili.com/video/BV11T4y1c78p> 
 ![](20min全身初级.png)|20min全身初级|<https://www.bilibili.com/video/BV114411m7Fi>非官方
 ![](20min全身高强.png)|20min全身高强|<https://www.bilibili.com/video/BV1PE411F7Jn> 非官方
 ![](15min全身增强.png)|15min全身增强|<https://www.bilibili.com/video/BV1L54y1Q7Qt> 非官方
-<https://www.bilibili.com/video/BV1sk4y1k7RS>
+|10分钟无器材全身运动|<https://www.bilibili.com/video/BV1sk4y1k7RS>
+![](15min椅子训练.png)|15min椅子训练|<https://www.bilibili.com/video/bv1Jb41117xv/>
 
 ## 有氧
 
@@ -69,6 +70,7 @@ description:
 ![](10min腿部+燃脂.png)|10min腿部+燃脂|<https://www.bilibili.com/video/BV1CT4y1L7mj>
 ![](12min腿部.png)|12min腿部|<https://www.bilibili.com/video/BV1M7411s7ES>非官方
 ![](15min大腿内外侧.png)|15min大腿内外侧|<https://www.bilibili.com/video/BV1CA411q7nH>非官方
+![](10min腿部拉伸.png)|10min腿部拉伸|<https://www.bilibili.com/video/BV13v411y7v4>
 
 
 ## 臀部
@@ -76,7 +78,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](15min臀部膝盖友好.png)|15min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1D5411t7sr>非官方
-![](30min臀部膝盖友好.png)|30min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1Yt4y117Cn>
+![](30min臀部膝盖友好.png)|30min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1Yt4y117Cn> 非官方
 ![](12min臀部upup.png)|12min臀部upup|<https://www.bilibili.com/video/BV1Ck4y127oC>
 ![](10min臀部膝盖友好.png)|10min臀部膝盖友好|<https://www.bilibili.com/video/bv1oK4y1a7rk/> 非官方
 ![](10min臀部.png)|10min臀部|<https://www.bilibili.com/video/BV1Fk4y1z73J>
@@ -89,7 +91,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](10min腹部.png)|10min腹部|<https://www.bilibili.com/video/BV1xp4y1X7f3>非官方
-![](15min腹部.png)|15min腹部|<https://www.bilibili.com/video/BV1pz411q7P3>
+![](15min腹部.png)|15min腹部Live|<https://www.bilibili.com/video/BV1pz411q7P3>
 ![](15min腹肌.png)|15min腹肌|<https://www.bilibili.com/video/BV1cg4y1q7Gm>
 ![](8min腹肌.png)|8min腹肌|<https://www.bilibili.com/video/BV1Xt4y197kb>
 ![](10min腹肌.png)|10min腹肌 |<https://www.bilibili.com/video/BV1FA411B7qM>非官方
