@@ -320,3 +320,98 @@ description:
 		* 15min新复古舞蹈 <https://www.bilibili.com/video/BV1Uk4y127HU>
 		* 10min有氧 <https://www.bilibili.com/video/BV1Az411q7Xf>
 * Day7 休息日!
+
+## 45min高强度 第28周
+
+![](45分钟 高强度 28周.png)
+
+* Day 1
+* Day 2
+* Day 3
+* Day 4 休息日!
+* Day 5
+* Day 6
+* Day 7 休息日!
+
+## 45min高强度 第29周
+
+![](45分钟 高强度 29周.png)
+
+* Day 1
+* Day 2
+* Day 3
+* Day 4 休息日!
+* Day 5
+* Day 6
+* Day 7 休息日!
+
+## 45min高强度 第30周
+
+![](45分钟 高强度 30周.png)
+
+![](45分钟 高强度 31周.png)
+
+* Day 1 超级臀部
+	* 4min歌曲热身LaLaLife <https://www.bilibili.com/video/BV1kf4y117cW>
+	* 15min臀部(膝盖友好) <https://www.bilibili.com/video/BV1D5411t7sr>非官方
+	* 20min臀部 <https://www.bilibili.com/video/BV1ap4y1C7To>非官方
+	* 10min腿部拉伸 <https://www.bilibili.com/video/BV13v411y7v4>
+* Day 2 超级上肢
+	* 3min歌曲热身lonely <https://www.bilibili.com/video/BV1nC4y1p7GY>
+	* 15min椅子训练 <https://www.bilibili.com/video/bv1Jb41117xv/>
+	* 10min上肢2 <https://www.bilibili.com/video/BV1KT4y1j7Cd>
+	* 10min卡路里杀手 <https://www.bilibili.com/video/BV1v5411a7c1>
+	* 10min舒缓训练 <https://www.bilibili.com/video/BV1hK4y1t7T4>非官方
+* Day 3 腹部+HIIT
+	* 8minJASON <https://www.bilibili.com/video/BV1B7411q7Sx> 非官方
+	* 15min全身增强 <https://www.bilibili.com/video/BV1L54y1Q7Qt> 非官方
+	* 15min HIIT <https://www.bilibili.com/video/BV1BJ41177Lo>
+	* 10min紧实腰侧 <https://www.bilibili.com/video/BV1RV411r7DS>
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 4 休息日!
+* Day 5 轻松周五
+	* 5min歌曲热身Leap of Faith <https://www.bilibili.com/video/BV1Ez4y1D7qh>
+	* 15min腹部Live <https://www.bilibili.com/video/BV1pz411q7P3>
+	* 30min臀部(膝盖友好) <https://www.bilibili.com/video/BV1Yt4y117Cn> 非官方
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 6 有氧日
+	* 4min歌曲热身Funny <https://www.bilibili.com/video/BV16f4y1Q7bC>
+	* 二选一
+		* 12min欢乐燃脂暴汗 <https://www.bilibili.com/video/BV1E54y1B7oZ>
+		* 10minHIIT <https://www.bilibili.com/video/BV1Np4y1i7rG>
+	* 10min有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
+	* 10min卡路里杀手 <https://www.bilibili.com/video/BV1v5411a7c1>
+	* 10min腿部拉伸 <https://www.bilibili.com/video/BV13v411y7v4>
+* Day 7 休息日!
+
+## 45min高强度 第31周
+
+* Day 1 臀部日
+	* 3min歌曲热身lonely <https://www.bilibili.com/video/BV1nC4y1p7GY>
+	* 10min臀部中级 <https://www.bilibili.com/video/BV1rA411e7Yx>
+	* 20min臀部 <https://www.bilibili.com/video/BV1ap4y1C7To>非官方
+	* 10min臀部膝盖友好 <https://www.bilibili.com/video/bv1oK4y1a7rk> 非官方
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 2 超级腹部+上肢
+	* 6min超强虐腹 <https://www.bilibili.com/video/BV18K411N7Wg>
+	* 10min上肢+腹部 <https://www.bilibili.com/video/BV1L541187NS>
+	* 二选一
+		* 15min椅子训练 <https://www.bilibili.com/video/bv1Jb41117xv/>
+* Day 3 有氧
+	* 10minHIIT <https://www.bilibili.com/video/BV1Np4y1i7rG>
+	* 15分钟欢乐舞蹈 <https://www.bilibili.com/video/BV1eK4y187GC>非官方
+	* 10min有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 4 休息日!
+* Day 5 轻松周五
+	* 5min歌曲热身Leap of Faith <https://www.bilibili.com/video/BV1Ez4y1D7qh>
+	* 10min腹部+瑜伽 <https://www.bilibili.com/video/BV1fT4y1j7f2>
+	* 15min臀部(膝盖友好) <https://www.bilibili.com/video/BV1D5411t7sr>非官方
+	* 15min每日拉伸 <https://www.bilibili.com/video/BV1Xi4y147LK>非官方
+* Day 6 腿部日
+	* 4min歌曲热身Funny <https://www.bilibili.com/video/BV16f4y1Q7bC>
+	* 12min臀部upup <https://www.bilibili.com/video/BV1Ck4y127oC>
+	* 15min大腿内外侧 <https://www.bilibili.com/video/BV1CA411q7nH>非官方
+	* 12min腿部 <https://www.bilibili.com/video/BV1M7411s7ES>非官方
+	* 10min腿部拉伸|<https://www.bilibili.com/video/BV13v411y7v4>
+* Day 7 休息日!

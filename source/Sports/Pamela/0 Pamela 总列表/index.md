@@ -11,7 +11,7 @@ description:
 ![](4min歌曲热身LaLaLife.png)|4min歌曲热身LaLaLife|<https://www.bilibili.com/video/BV1kf4y117cW>
 ![](10min趣味热身.png)|10min趣味热身| <https://www.bilibili.com/video/BV1RK411p7Xe>
 ![](3min歌曲热身lonely.png)|3min歌曲热身lonely|<https://www.bilibili.com/video/BV1nC4y1p7GY>
-![](10min清晨唤醒.png)|10min清晨唤醒 |<https://www.bilibili.com/video/BV1Gt411J71Y>
+![](10min清晨唤醒.png)|10min清晨唤醒 |<https://www.bilibili.com/video/BV1Gt411J71Y> 非官方
 ![](10min全身.png)|10min全身|<https://www.bilibili.com/video/BV1Gt411J71Y> 非官方
 ![](3min歌曲热身South Of Border.png)|3min歌曲热身South Of Border|<https://www.bilibili.com/video/BV1sK4y1k7PH>
 
@@ -80,7 +80,7 @@ description:
 ![](15min臀部膝盖友好.png)|15min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1D5411t7sr>非官方
 ![](30min臀部膝盖友好.png)|30min臀部(膝盖友好)|<https://www.bilibili.com/video/BV1Yt4y117Cn> 非官方
 ![](12min臀部upup.png)|12min臀部upup|<https://www.bilibili.com/video/BV1Ck4y127oC>
-![](10min臀部膝盖友好.png)|10min臀部膝盖友好|<https://www.bilibili.com/video/bv1oK4y1a7rk/> 非官方
+![](10min臀部膝盖友好.png)|10min臀部膝盖友好|<https://www.bilibili.com/video/bv1oK4y1a7rk> 非官方
 ![](10min臀部.png)|10min臀部|<https://www.bilibili.com/video/BV1Fk4y1z73J>
 ![](10min臀部中级.png)|10min臀部中级|<https://www.bilibili.com/video/BV1rA411e7Yx>
 ![](10min臀部激活.png)|10min臀部激活|<https://www.bilibili.com/video/BV1dc411h7Qz>非官方
@@ -102,6 +102,7 @@ description:
 ![](10min紧实腰侧.png)|10min紧实腰侧|<https://www.bilibili.com/video/BV1RV411r7DS>
 ![](12min腹部进阶.png)|12min腹部进阶|<https://www.bilibili.com/video/BV1F5411W7bU>非官方
 ![](10min趣味虐腹穿袜)|10min趣味虐腹(穿袜)|<https://www.bilibili.com/video/BV1de411p7TE>
+![](6min超强虐腹.png)|6min超强虐腹|<https://www.bilibili.com/video/BV18K411N7Wg>
 
 ## 臀部+腹部
 
