@@ -415,3 +415,37 @@ description:
 	* 12min腿部 <https://www.bilibili.com/video/BV1M7411s7ES>非官方
 	* 10min腿部拉伸|<https://www.bilibili.com/video/BV13v411y7v4>
 * Day 7 休息日!
+
+## 45min高强度 第32周
+
+![](45分钟 高强度 32周.png)
+
+* Day 1 上肢+腹部
+	* 10min上肢+腹部 <https://www.bilibili.com/video/BV1L541187NS>
+	* 4minHIIT Head & Heart <https://www.bilibili.com/video/bv1wz4y1Z7sB>
+	* 15min腹肌 <https://www.bilibili.com/video/BV1cg4y1q7Gm>
+	* 10min卡路里杀手 <https://www.bilibili.com/video/BV1v5411a7c1>
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 2 臀部+腹部
+	* 45min臀部+腹部 <https://www.bilibili.com/video/BV1Fz4y1Z77f>
+* Day 3 腹部+燃脂
+	* 6min超强虐腹 <https://www.bilibili.com/video/BV18K411N7Wg>
+	* 二选一
+		* 10min有氧(无跳跃) <https://www.bilibili.com/video/BV1Qg4y1q7zP>
+		* 8minJASON <https://www.bilibili.com/video/BV1B7411q7Sx> 非官方
+	* 10min腹部脖颈背部友好 <https://www.bilibili.com/video/bv1sK411n7ft>
+	* 10min腿部拉伸 <https://www.bilibili.com/video/BV13v411y7v4>
+* Day 4 休息日!
+* Day 5 轻松周五
+	* 4min歌曲热身Funny <https://www.bilibili.com/video/BV16f4y1Q7bC>
+	* 10min紧实腰侧 <https://www.bilibili.com/video/BV1RV411r7DS>
+	* 15min臀部(膝盖友好) <https://www.bilibili.com/video/BV1D5411t7sr>非官方
+	* 20min平坦腹部&臀部|<https://www.bilibili.com/video/BV1eK4y1t7jn>非官方
+* Day 6 HIIT+拉伸
+	* 4min歌曲热身LaLaLife <https://www.bilibili.com/video/BV1kf4y117cW>
+	* 15min HIIT <https://www.bilibili.com/video/BV1BJ41177Lo> 非官方
+	* 二选一
+		* 15min复古有氧 <https://www.bilibili.com/video/BV1o64y1T7KV>非官方
+		* 15min复古舞蹈 <https://www.bilibili.com/video/BV1Uk4y127HU>
+	* 15min每日拉伸 |<https://www.bilibili.com/video/BV1Xi4y147LK>非官方
+* Day 7 休息日!

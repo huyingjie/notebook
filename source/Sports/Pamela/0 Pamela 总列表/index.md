@@ -49,9 +49,11 @@ description:
 ![](12min欢乐燃脂暴汗.png)|12min欢乐燃脂暴汗|<https://www.bilibili.com/video/BV1E54y1B7oZ>
 ![](10minHIIT.png)|10minHIIT|<https://www.bilibili.com/video/BV1Np4y1i7rG>
 ![](8minJASON.png)|8minJASON| <https://www.bilibili.com/video/BV1B7411q7Sx> 非官方
-![](15min HIIT.png)|15min HIIT|<https://www.bilibili.com/video/BV1BJ41177Lo>
+![](15min HIIT.png)|15min HIIT|<https://www.bilibili.com/video/BV1BJ41177Lo> 非官方
 ![](15min全身变强.png)|15min全身变强|<https://www.bilibili.com/video/BV1Gt4y1Q7G1> 非官方
 ![](10min燃脂暴汗.png)|10min燃脂暴汗|<https://www.bilibili.com/video/BV1UQ4y1K74A> 非官方
+![](4minHIIT Head & Heart.png)|4minHIIT Head & Heart|<https://www.bilibili.com/video/bv1wz4y1Z7sB>
+![](硬核HIIT.png)|硬核HIIT|<https://www.bilibili.com/video/bv15K411A7Cp>
 
 ## 上肢
 
@@ -91,6 +93,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](10min腹部.png)|10min腹部|<https://www.bilibili.com/video/BV1xp4y1X7f3>非官方
+ ![]( 10min腹部脖颈背部友好.png)|10min腹部脖颈背部友好 | <https://www.bilibili.com/video/bv1sK411n7ft>
 ![](15min腹部.png)|15min腹部Live|<https://www.bilibili.com/video/BV1pz411q7P3>
 ![](15min腹肌.png)|15min腹肌|<https://www.bilibili.com/video/BV1cg4y1q7Gm>
 ![](8min腹肌.png)|8min腹肌|<https://www.bilibili.com/video/BV1Xt4y197kb>
@@ -109,7 +112,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](45min臀部+腹部.png)|45min臀部+腹部|<https://www.bilibili.com/video/BV1Fz4y1Z77f>
-![](20min平坦腹部&臀部.png)|20min平坦腹部&臀部|<https://www.bilibili.com/video/BV1eK4y1t7jn>
+![](20min平坦腹部&臀部.png)|20min平坦腹部&臀部|<https://www.bilibili.com/video/BV1eK4y1t7jn>非官方
 
 
 ## 背部
