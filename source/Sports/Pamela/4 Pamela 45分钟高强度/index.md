@@ -449,3 +449,42 @@ description:
 		* 15min复古舞蹈 <https://www.bilibili.com/video/BV1Uk4y127HU>
 	* 15min每日拉伸 |<https://www.bilibili.com/video/BV1Xi4y147LK>非官方
 * Day 7 休息日!
+
+## 45min高强度 第33周
+
+![](45分钟 高强度 33周.png)
+
+* Day 1 臀腿
+	* 10min腹部 <https://www.bilibili.com/video/BV1xp4y1X7f3>非官方
+	* 二选一
+		* 20min臀部+大腿(负重) <https://www.bilibili.com/video/BV135411L76K>
+		* 20min臀部 <https://www.bilibili.com/video/BV1ap4y1C7To>非官方
+	* 10min腿部+燃脂 <https://www.bilibili.com/video/BV1CT4y1L7mj>
+	* 5min每日拉伸 <https://www.bilibili.com/video/BV1Zz4y1o7Vx>
+* Day 2 腹部+上肢
+	* 15min腹肌 <https://www.bilibili.com/video/BV1cg4y1q7Gm>
+	* 10min上肢+腹部 <https://www.bilibili.com/video/BV1L541187NS>
+	* 10min紧实手臂(水瓶) <https://www.bilibili.com/video/BV1XV41127CW> 非官方
+	* 10min背部 <https://www.bilibili.com/video/BV1Dz411q71Q> 非官方
+* Day 3 腹部+燃脂
+	* 8min腹肌 <https://www.bilibili.com/video/BV1Xt4y197kb>
+	* 10minHIIT <https://www.bilibili.com/video/BV1Np4y1i7rG>
+	* 12min欢乐燃脂暴汗 <https://www.bilibili.com/video/BV1E54y1B7oZ>
+	* 二选一
+		* 15min性感舞蹈 <https://www.bilibili.com/video/BV1me411s7Sv>非官方
+		* 15分钟欢乐舞蹈 <https://www.bilibili.com/video/BV1eK4y187GC>非官方
+* Day 4 休息日!
+* Day 5 轻松周五
+	* 10min腹部+瑜伽 <https://www.bilibili.com/video/BV1fT4y1j7f2>
+	* 15min臀部(膝盖友好) <https://www.bilibili.com/video/BV1D5411t7sr>非官方
+	* 12min臀部upup <https://www.bilibili.com/video/BV1Ck4y127oC>
+	* 10min腿部拉伸 <https://www.bilibili.com/video/BV13v411y7v4>
+* Day 6 综合周末
+	* 15min腹部Live|<https://www.bilibili.com/video/BV1pz411q7P3>
+	* 10min上肢2|<https://www.bilibili.com/video/BV1KT4y1j7Cd>
+	* 二选一
+		* 15min复古有氧|<https://www.bilibili.com/video/BV1o64y1T7KV>非官方
+		* 15分钟欢乐舞蹈 <https://www.bilibili.com/video/BV1eK4y187GC>非官方
+		* 15min HIIT|<https://www.bilibili.com/video/BV1BJ41177Lo> 非官方
+	* 7min平板挑战|<https://www.bilibili.com/video/BV1EW411N7qP> 非官方
+* Day 7 休息日!

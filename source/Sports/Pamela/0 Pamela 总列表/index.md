@@ -129,3 +129,5 @@ description:
 ![](30min腹部+臀部.png)|30min腹部+臀部| <https://www.bilibili.com/video/BV1TT4y1V76p>
 
 ![](10min上肢+腹部.png)|10min上肢+腹部|<https://www.bilibili.com/video/BV1L541187NS>
+
+![](20min臀部+大腿(负重).png)|20min臀部+大腿(负重) | <https://www.bilibili.com/video/BV135411L76K>
