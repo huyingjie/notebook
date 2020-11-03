@@ -40,7 +40,7 @@ description:
 
 图片|名称|链接
 ---|---|---
-![](10min有氧无跳跃.png)|10min有氧(无跳跃)|<https://www.bilibili.com/video/BV1Qg4y1q7zP>
+![](10min有氧无跳跃.png)|10min有氧(无跳跃)|<https://www.bilibili.com/video/BV14k4y1r71n> 非官方
 ![](15min复古有氧.png)|15min复古有氧|<https://www.bilibili.com/video/BV1o64y1T7KV>非官方
 ![](15min复古舞蹈.png)|15min复古舞蹈|<https://www.bilibili.com/video/BV1Uk4y127HU>
 ![](15min性感舞蹈.png)|15min性感舞蹈|<https://www.bilibili.com/video/BV1me411s7Sv>非官方
@@ -53,7 +53,7 @@ description:
 ![](15min全身变强.png)|15min全身变强|<https://www.bilibili.com/video/BV1Gt4y1Q7G1> 非官方
 ![](10min燃脂暴汗.png)|10min燃脂暴汗|<https://www.bilibili.com/video/BV1UQ4y1K74A> 非官方
 ![](4minHIIT Head & Heart.png)|4minHIIT Head & Heart|<https://www.bilibili.com/video/bv1wz4y1Z7sB>
-![](硬核HIIT.png)|硬核HIIT|<https://www.bilibili.com/video/bv15K411A7Cp>
+![](10min硬核HIIT.png)|10min硬核HIIT|<https://www.bilibili.com/video/bv15K411A7Cp>
 
 ## 上肢
 
@@ -93,7 +93,7 @@ description:
 图片|名称|链接
 ---|---|---
 ![](10min腹部.png)|10min腹部|<https://www.bilibili.com/video/BV1xp4y1X7f3>非官方
- ![]( 10min腹部脖颈背部友好.png)|10min腹部脖颈背部友好 | <https://www.bilibili.com/video/bv1sK411n7ft>
+ ![](10min腹部脖颈背颈友好.png)|10min腹部脖颈背颈友好 | <https://www.bilibili.com/video/bv1sK411n7ft>
 ![](15min腹部.png)|15min腹部Live|<https://www.bilibili.com/video/BV1pz411q7P3>
 ![](15min腹肌.png)|15min腹肌|<https://www.bilibili.com/video/BV1cg4y1q7Gm>
 ![](8min腹肌.png)|8min腹肌|<https://www.bilibili.com/video/BV1Xt4y197kb>
@@ -106,6 +106,7 @@ description:
 ![](12min腹部进阶.png)|12min腹部进阶|<https://www.bilibili.com/video/BV1F5411W7bU>非官方
 ![](10min趣味虐腹穿袜)|10min趣味虐腹(穿袜)|<https://www.bilibili.com/video/BV1de411p7TE>
 ![](6min超强虐腹.png)|6min超强虐腹|<https://www.bilibili.com/video/BV18K411N7Wg>
+![](10min腹部负重.png)|10min腹部(负重)|<https://www.bilibili.com/video/BV1sV411y7mR?p=1>
 
 ## 臀部+腹部
 
